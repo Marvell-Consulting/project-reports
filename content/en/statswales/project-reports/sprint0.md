@@ -10,7 +10,7 @@ description:
 - Ways of working meeting
 - Project board setup
 
-## What we're planning to do this week
+## What we’re planning to do this week
 
 - Conduct a data architecture review
 - Set up a seperate Azure environment for Marvell
