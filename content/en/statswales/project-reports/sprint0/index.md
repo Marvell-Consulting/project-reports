@@ -4,7 +4,7 @@ date: 2024-02-19
 description: Sprint report for the StatsWales Sprint 0
 ---
 
-![asymptote.png](Asymptote Graph for Srping 0)
+![Asymptote Graph for Srping 0](asymptote.png)
 
 ## What we did last week
 
