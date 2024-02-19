@@ -30,4 +30,4 @@ These are our goals for this sprint
 ## Things to bare in mind
 
 - The project started Tuesday 6th February 2024
-- This is out first weekly report
+- This is our first weekly report
