@@ -59,7 +59,7 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.en.params]
-title = "Goldydocs"
+title = "Marvell Projects"
 description = "Project reports for things we are working on"
 
 [markup]
