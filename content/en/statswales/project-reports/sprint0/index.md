@@ -29,7 +29,7 @@ These are our goals for this sprint
 - Create an initial research plan <span class="badge bg-success">_**Done**_</span>
 - Review discovert outputs <span class="badge bg-success">_**Done**_</span>
 
-## Things to bare in mind
+## Things to bear in mind
 
 - The project started Tuesday 6th February
 - This is our first weekly report
