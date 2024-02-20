@@ -1,5 +1,5 @@
 ---
-title: Sprint 0
+title: Sprint 0 - Arbitrary Asymptote
 date: 2024-02-19
 description: Sprint report for the StatsWales Sprint 0
 ---
