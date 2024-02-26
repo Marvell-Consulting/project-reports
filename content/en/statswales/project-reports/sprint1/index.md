@@ -23,7 +23,7 @@ description: Sprint report for the StatsWales Sprint 1
 - Build backlog of user stories in Azure
 - Design exploration - what first after user story review?
 - Have a walkthrough of the existing data process
-- Disseminate the survey to the data publishers.
+- Disseminate the survey to the data publishers and data processors.
 - Document and share initial architecture
 - Request access to disaster recovery for Statswales2
 
@@ -32,7 +32,7 @@ description: Sprint report for the StatsWales Sprint 1
 These are our goals for this sprint
 
 - Understand the existing data process better <span class="badge bg-info">_**In progress**_</span>
-- Agree the scope for Alpah <span class="badge bg-info">_**In progress**_</span>
+- Agree the scope for Alpha <span class="badge bg-info">_**In progress**_</span>
 - Document high level architecture and Azure products <span class="badge bg-info">_**In progress**_</span>
 - Data: start to structure/analyse data in Azure once there is some in there <span class="badge bg-info">_**In progress**_</span>
 - Have a service in Azure that we can demo <span class="badge bg-success">_**Done**_</span>
@@ -43,5 +43,5 @@ These are our goals for this sprint
 ## Screen shot of risks and issues board
 ![Screenshot of risks and issues board](risksAndIssues20240226.png)
 
-## Screenshot of project roadmap
-![Screenshot of project roadmap](deliveryPlan20240226.png)
+## Screenshot of delivery plan 
+![Screenshot of delivery plan](deliveryPlan20240226.png)
