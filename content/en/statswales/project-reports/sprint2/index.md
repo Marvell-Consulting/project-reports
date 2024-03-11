@@ -19,7 +19,7 @@ description: Sprint report for the StatsWales Sprint 2
 -  Walk through of the Stats Wales Back office
 
 ## What we’re planning to do this week
-- Plan user testing of the alpha prototype
+- Plan testing of our prototype with users
 - Automate infrastructure as code for publishing app
 - Terms of References
 - Disseminate the survey to the data publishers
