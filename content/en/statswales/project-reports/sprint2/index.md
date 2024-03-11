@@ -4,7 +4,7 @@ date: 2024-03-11
 description: Sprint report for the StatsWales Sprint 2
 ---
 
-![Example of curious correlation](corrlation.jpg)
+![Example of curious correlation](correlation.jpg)
 
 ## What we did last week
 -  Create a plan for prototype testing
