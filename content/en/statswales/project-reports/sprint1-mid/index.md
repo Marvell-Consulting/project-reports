@@ -40,7 +40,7 @@ These are our goals for this sprint
 - Document high level architecture and Azure products <span class="badge bg-info">_**In progress**_</span>
 - Data: start to structure/analyse data in Azure once there is some in there <span class="badge bg-info">_**In progress**_</span>
 - Have a service in Azure that we can demo <span class="badge bg-success">_**Done**_</span>
-- Understand the existing data process better <span class="badge bg-info">_**Done**_</span>
+- Understand the existing data process better <span class="badge bg-success">_**Done**_</span>
 
 ## Things to bear in mind
 - Transfer of SC clearance is *still* currently a limiting factor on progress
