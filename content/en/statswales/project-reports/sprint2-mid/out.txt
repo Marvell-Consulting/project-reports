@@ -1,0 +1,53 @@
+Backlog    |    End of Alpha - support skills, roles, requirements.
+Backlog    |    Agree upskilling requirements in agile/user centric research and design and identify WG trainees - David and Nicole to get back to Marvell
+To Do    |    Agree approach for displaying data for Alpha
+To Do    |    Conduct remote usability testing data processors / publishers
+Doing    |    Implement privacy notice statement in HTML on the SW site
+Doing    |    automate infrastructure as code for publishing app
+Doing    |    GOAL: Create metadata database and link to assets in datalake
+Doing    |    Look at the data quality ticket in the delivery board - split into tickets and identify first step
+Doing    |    GOAL: Design and test prototypes with data processors/publishers
+Doing    |    Plan testing of the alpha prototype
+Doing    |    GOAL: Data: start to structure/analyse data in Azure once there is some in there
+Doing    |    Develop prototypes
+Doing    |    Recruit participants for testing the alpha prototype
+Doing    |    Access for full data cubes for Statswales2
+Doing    |    Publish data consumer survey to the SW site
+Doing    |    Analyse survey data from data processors
+Done    |    Disseminate the survey to the data publishers.
+Done    |    GOAL: Upload data to a data lake (includes Demo)
+Done    |    Implement the data consumer bilingual survey using Smart Survey
+Done    |    Plan session to look at current product analytics
+Done    |    Terms of References
+Done    |    Define concepts for prototype testing
+Archived    |    Have a walkthrough of the existing data process
+Archived    |    GOAL: Review discovery outputs
+Archived    |    Pilot data processor feedback survey with two participants
+Archived    |    Initial Architecture discussion
+Archived    |    Put together a site for publishing sprint reports
+Archived    |    Nicole to find out about sharing an example datacube file with the team
+Archived    |    document and share initial architecture
+Archived    |    Examination of lookup tables and identification of those that overlap
+Archived    |    Plan survey with data publishers
+Archived    |    Draft communications for data consumers volunteers
+Archived    |    Go back to the survey data from discovery analyze "I cannot do this with cubes because of X Y Z"
+Archived    |    Review discovery outputs
+Archived    |    Ways of working meeting
+Archived    |    Mapping data on the current service
+Archived    |    GOAL: Understand the existing data process better
+Archived    |    Create a plan for prototype testing
+Archived    |    GOAL: Document high-level architecture and Azure products
+Archived    |    IaC a data lake
+Archived    |    GOAL: Agree the scope for Alpha
+Archived    |    Points / Milestones against which project will be tracked / paid
+Archived    |    Governance board - Project board
+Archived    |    3 surveys - data processor, data publisher, data consumer
+Archived    |    Design exploration - what first after user story review?
+Archived    |    Build backlog of user stories in Azure
+Archived    |    Technical research question workshop
+Archived    |    User story map
+Archived    |    Send David and Nicole a list of apps to use (Google Meet, Trello, Miro, Slack?)
+Archived    |    Analyse raw data
+Archived    |    Research out to the WG design contacts
+Archived    |    GOAL: Create an initial research plan
+
