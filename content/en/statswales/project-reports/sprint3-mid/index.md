@@ -35,4 +35,4 @@ Currently three things are limiting our progress and are identified as large ris
 
 ## Screen shot of risks and issues board
 ![Screenshot of risks and issues board](risksAndIssues20240402.png)
-![Risk impact score](impact_score.svg)
+![Risk impact score](impact_score.png)
