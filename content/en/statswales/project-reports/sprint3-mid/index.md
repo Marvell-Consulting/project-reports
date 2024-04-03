@@ -1,5 +1,5 @@
 ---
-title: Sprint 3 - Descriptive Statistics
+title: Sprint 3 - Descriptive Statistics (mid-sprint)
 date: 2024-04-02
 description: Sprint report for the StatsWales Sprint 3 - mid-Sprint
 ---
