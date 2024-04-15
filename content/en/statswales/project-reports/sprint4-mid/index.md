@@ -29,9 +29,7 @@ These are the goals that we agreed in planning:
 
 ## Things to bear in mind / What's blocking us
 Currently three things are limiting our progress and are identified as large risks
-- Cyber essentials plus certification
-- Assess to Stats Wales Data cubes
-- SC Clearance
+- Access to Stats Wales Data cubes
 
 ## Screen shot of risks and issues board
 ![Screenshot of risks and issues board](risksAndIssues20240402.png)
