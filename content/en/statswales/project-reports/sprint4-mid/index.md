@@ -4,7 +4,7 @@ date: 2024-04-02
 description: Sprint report for the StatsWales Sprint 3 - mid-Sprint
 ---
 
-![Descriptive statistics](standardDeviation.png)
+![Descriptive statistics](candyCorn.jpg)
 
 ## What we did last week
 - Recruit participants for testing the alpha prototype
@@ -20,7 +20,7 @@ description: Sprint report for the StatsWales Sprint 3 - mid-Sprint
 - Create metadata database and link to assets in datalake
 - Identify what changes and improvements we might want to make in subsequent iterations
 - Understand the variety of data sources [DEPENDENCY ON CYBER ESSENTIALS]
-- Data processor / publisher - research analysis 
+- Data processor / publisher - research analysis
 
 ## Goals
 These are the goals that we agreed in planning:
@@ -35,4 +35,4 @@ Currently three things are limiting our progress and are identified as large ris
 
 ## Screen shot of risks and issues board
 ![Screenshot of risks and issues board](risksAndIssues20240402.png)
-![Risk impact score](impact_score.png)
+![Risk impact score](impact_score20240415.png)
