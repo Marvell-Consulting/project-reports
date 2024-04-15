@@ -1,7 +1,7 @@
 ---
-title: Sprint 3 - Descriptive Statistics (mid-sprint)
-date: 2024-04-02
-description: Sprint report for the StatsWales Sprint 3 - mid-Sprint
+title: Sprint 4 - Educated Estimation (mid-sprint)
+date: 2024-04-15
+description: Sprint report for the StatsWales Sprint 4 - mid-Sprint
 ---
 
 ![Descriptive statistics](candyCorn.jpg)
