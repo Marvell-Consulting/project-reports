@@ -1,5 +1,5 @@
 ---
-title: Sprint 0 
+title: Sprint 0
 date: 2024-02-29
 description: Sprint report for the StatsWales Sprint 0
 ---
@@ -32,11 +32,8 @@ These are our goals for this sprint
 ## Things to bear in mind
 * This is our first week
 
-![Screenshot of project roadmap](ScreenShotOfProductRoadmap.jpg)
-
 ## These are are currently identified risks and issues
-\[Issue\] Different people building different overlapping systems
-\[Risk\] Getting service assessment booked
-\[Risk\] Access to data
-\[Risk\]User availability
-
+* \[Issue\] Different people building different overlapping systems
+* \[Risk\] Getting service assessment booked
+* \[Risk\] Access to data
+* \[Risk\]User availability
