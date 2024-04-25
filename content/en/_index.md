@@ -7,6 +7,6 @@ title: Marvell Consulting Projects
 🏴󠁧󠁢󠁷󠁬󠁳󠁿 StatsWales <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-primary me-3 mb-4" href="{{< relref "PIM" >}}">
-🏴PIM <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+🩺 PIM <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 {{< /blocks/cover >}}
