@@ -1,7 +1,7 @@
 ---
 title: Sprint 0
 date: 2024-02-29
-description: Sprint report for the StatsWales Sprint 0
+description: Sprint report for DHSC PIM Sprint 0
 ---
 
 ![Apple](apple.jpg)
