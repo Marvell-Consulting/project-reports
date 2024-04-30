@@ -10,11 +10,12 @@ description: Sprint report for the StatsWales Sprint 5 - mid-Sprint
 - Create prototype (iteration 2) for data processor/ publisher
 - Hold second round of prototype testing sessions
 - Reference data - controlled vocabularies such as local authority codes
+- In the run-up to the beta phase, we will begin horizon scanning
+
 
 ## What we're planning to do this week
 - Access for full data cubes for Statswales2 [ON HOLD 18/04/2024]
 - Recommending our approach for Beta / Alpha report
-- In the run-up to the beta phase, we will begin horizon scanning
 - SOW and Milestones - documentation required in support of Beta
 - Data consumer - Prototype (iteration 2)
 - Alpha assessment
