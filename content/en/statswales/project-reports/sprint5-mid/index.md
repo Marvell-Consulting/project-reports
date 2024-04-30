@@ -7,9 +7,9 @@ description: Sprint report for the StatsWales Sprint 5 - mid-Sprint
 ![Fabulous F Value](fValue2.png)
 
 ## What we did last week
-- Hold second round of prototype testing sessions - data processor / publisher)
+- Create prototype (iteration 2) for data processor/ publisher
+- Hold second round of prototype testing sessions
 - Reference data - controlled vocabularies such as local authority codes
-- Data processor/publisher - Prototype (iteration 2)
 
 ## What we're planning to do this week
 - Access for full data cubes for Statswales2 [ON HOLD 18/04/2024]
@@ -22,13 +22,14 @@ description: Sprint report for the StatsWales Sprint 5 - mid-Sprint
 
 ## Goals
 These are the goals that we agreed in planning:
-- Analyse the findings from data processors and data consumers (research and design) <span class="badge bg-info">_**In progress**_</span>
-- Create metadata database and link to assets in data lake (data and development) <span class="badge bg-info">_**In progress**_</span>
+- Complete the data processor user testing round 2 <span class="badge bg-success">_**Done**_</span>
+- Complete Alpha / Beta report (and SOW Beta) <span class="badge bg-info">_**In progress**_</span>
+- Break the alpha service into components <span class="badge bg-success">_**Done**_</span>
 
 ## Things to bear in mind / What's blocking us
 - We conducted the first half of the Alpha assessment another session is scheduled for Friday
 
-The following things are still block us, although progress is being made:
+The following things are still blocking us, although progress is being made:
 - Access to the data discussions are happening today to get access to the data
 - Agreement on access for Marvell subcontractors Register Dynamics are going the process of being audited for Cyber Essentials Plus
 - Architecture form - Azure subscriptions - a draft of this form will be shared with WG technical staff today
