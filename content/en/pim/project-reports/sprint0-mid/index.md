@@ -34,7 +34,7 @@ description: Sprint report for DHSC PIM Sprint 1
 
 ## Goals
 We have one goal for this sprint (two-week period)
-* Find out how people feel in NHS trusts about proposed view of 13 fields <span class="badge bg-info">_**Done**_</span>
+* Find out how people feel in NHS trusts about proposed view of 13 fields <span class="badge bg-info">_**In progress**_</span>
 
 ## Things to bear in mind
 * We did a mini "Show and tell" showcasing our work last week on Wednesday 1st May
