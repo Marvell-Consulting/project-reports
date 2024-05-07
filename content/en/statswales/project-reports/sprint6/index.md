@@ -16,11 +16,10 @@ description: Sprint report for the StatsWales3 Sprint 6
 
 ## What we're planning to do this week
 * SOW and Milestones - documentation required in support of Beta
-* Data publisher round 2 testing - research analysis prep & workshop 
-* Data consumer - Prototype (iteration 2)
+* Continue analysis of 2nd round research output
+* Create to-be service map first iteration
+* Fine tune data publishing user journey (design)
 * Complete the Solution Design Document Form
-* Attempt to implement OData api on the backend app
-
 
 ## Goals
 These are the goals that we set for this sprint:
