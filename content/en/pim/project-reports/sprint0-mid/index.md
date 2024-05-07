@@ -41,10 +41,10 @@ We have one goal for this sprint (two-week period)
 * Our next show and tell will be on Tuesday 14th May
 
 ## These are are currently identified risks and issues
-\[Issue\] Engagement with manufacturers in a maintenance process
-\[Final\] ownership
-\[Issue\] Different people building different overlapping systems
-\[Issue\] NHS trust infrastructure to be able to consume data from PIM
-\[Risk\] Getting service assessment booked
-\[Risk\] User availability
+* \[Issue\] Engagement with manufacturers in a maintenance process
+* \[Final\] ownership
+* \[Issue\] Different people building different overlapping systems
+* \[Issue\] NHS trust infrastructure to be able to consume data from PIM
+* \[Risk\] Getting service assessment booked
+* \[Risk\] User availability
 
