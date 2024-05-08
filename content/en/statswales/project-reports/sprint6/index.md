@@ -8,17 +8,16 @@ description: Sprint report for the StatsWales3 Sprint 6
 
 ## What we did last week
 * Investigating methods to help data publishers clean and validate their datasets at upload time to increase the value of the platform as a whole - dependency on data cubes
-* Hold second round of prototype testing sessions - data processor / publisher)
+* Data publisher round 2 testing - research analysis prep & workshop
 * In the run-up to the beta phase, we will begin horizon scanning to identify constraints to release for the beta phase such as security checkpoints, approval processes, interfacing with other services/teams, etc.
 * Content review of current prototypes
 * Access for full data cubes for Statswales2
-* Data consumer - Prototype (iteration 2)
 
 ## What we're planning to do this week
 * SOW and Milestones - documentation required in support of Beta
-* Continue analysis of 2nd round research output
+* Update user needs board based on research findings
 * Create to-be service map first iteration
-* Fine tune data publishing user journey (design)
+* Iterate data publishing user journey (design)
 * Complete the Solution Design Document Form
 
 ## Goals
