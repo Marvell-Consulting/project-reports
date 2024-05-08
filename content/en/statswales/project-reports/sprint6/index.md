@@ -29,7 +29,8 @@ These are the goals that we set for this sprint:
 
 ## Things to bear in mind / What's blocking us
 The following things are still blocking the progress of the project
-* Access to the data - ***we are currently waiting for security re-clearance in order to get access to the data***
+* Access to the data ***We downloaded all the StatsWales2 OData (1377 datacubes) which we are currently analysing while we await access to the source data.***
+* Access to the source data - ***we are currently waiting for security re-clearance in order to get access to the data***
 * Agreement on access for Marvell subcontractors - ***Our subcontractors are in the process of getting the required certification***
 * Architecture form - Azure subscriptions - ***we are responding to comments on our service design document, but we don't anticipate that this will now stop us getting access***
 
