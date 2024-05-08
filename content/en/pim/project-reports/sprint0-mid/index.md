@@ -8,15 +8,16 @@ description: Sprint report for DHSC PIM Sprint 1
 
 ## What we did last week
 * Agree ways of working
-* Defining goals and APIs
+* Defining goals and KPIs
 * Drafting user stories
 * Exploring what we want to take into user testing
 * Mapping the as-is service
 * Mapping users and stakeholders
 * Planning initial 2 user group workshops (data consumer)
-* Preparing for first backlog refinement session
+* Completed first backlog refinement session
 * Review participant list and address gaps for alpha
 * Setting up service standard deck
+* Conducted two data consumer workshops
 
 
 ## What we’re planning to do this week
@@ -42,7 +43,7 @@ We have one goal for this sprint (two-week period)
 
 ## These are are currently identified risks and issues
 * \[Issue\] Engagement with manufacturers in a maintenance process
-* \[Final\] ownership
+* \[Risk\] Final ownership
 * \[Issue\] Different people building different overlapping systems
 * \[Issue\] NHS trust infrastructure to be able to consume data from PIM
 * \[Risk\] Getting service assessment booked
