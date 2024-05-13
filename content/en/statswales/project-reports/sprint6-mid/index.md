@@ -4,7 +4,7 @@ date: 2024-05-13
 description: Sprint report for the StatsWales Sprint 6 - mid-Sprint
 ---
 
-![Carl Friedrich Gauss](gauss.png)
+![Carl Friedrich Gauss](gauss.jpg)
 
 ## What we did last week
 * Update user needs board based on research findings
