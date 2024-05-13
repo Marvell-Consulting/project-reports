@@ -1,0 +1,9 @@
+﻿ID,Work Item Type,Title,Assigned To,State,Tags
+"112","User Story","[TASK] Access for full data cubes for Statswales2 [ON HOLD 18/04/2024]","mark.stringer <mark.stringer@marvell-consulting.com>","Active",
+"143","User Story","[TASK] Understand the variety of data sources","harry.thompson <harry.thompson@marvell-consulting.com>","Active",
+"150","User Story","[TASK] SOW and Milestones - documentation required in support of Beta","mark.stringer <mark.stringer@marvell-consulting.com>","Active",
+"179","User Story","[TASK] Solution Design Document","jamie.maynard <jamie.maynard@marvell-consulting.com>","Active",
+"184","User Story","Attempt to implement OData api on the backend app","jamie.maynard <jamie.maynard@marvell-consulting.com>","Active",
+"187","User Story","[TASK] Understanding the domain process Simon (GEL)","nicole.burchill@gov.wales <nicole.burchill@gov.wales>","Active",
+"198","User Story"," [TASK] Iterate data publishing content journey (prototype) - Version 3","harry.thompson <harry.thompson@marvell-consulting.com>","Active",
+"203","User Story","[TASK] Aligning roadmap and release plan","Adam Buttigieg <adam.buttigieg@marvell-consulting.com>","Active",
