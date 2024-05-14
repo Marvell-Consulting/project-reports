@@ -4,7 +4,7 @@ date: 2024-05-14
 description: Sprint report for DHSC PIM Sprint 1 (mid sprint)
 ---
 
-![Banana](banana2.jpg)
+![Banana](banana.jpg)
 
 ## What we did last week
 * Data flows workshop with MHRA
@@ -32,14 +32,14 @@ We have one goal for this sprint (two-week period)
 * We are currently discussion a change to the programme of activities through through the next two sprints with the service owner
 
 ## These are are currently identified risks and issues
-[Issue] Different people building different overlapping systems
-[Risk] 13 fields may not be enough to provide value and / or solve the whole problem.
-[Risk]Engagement with manufacturers in a maintenance process
-[Risk]Final ownership
-[Risk] Getting service assessment booked
-[Risk]NHS trust infrastructure to be able to consume data from PIM
-[Risk] PIM is an infrastructure that underpins multiple services - how do we frame what PIM is. What does "End-to-end" mean is this situation.
-[Risk] Quality of MHRA is patchy - and is a dependency beyond our control
-[Risk]User availability
-[Risk] What constitutes a medical device? How can we decide what is included and excluded form PIM
+* \[Issue\] Different people building different overlapping systems
+* \[Risk\] 13 fields may not be enough to provide value and / or solve the whole problem.
+* \[Risk\] Engagement with manufacturers in a maintenance process
+* \[Risk\] Final ownership
+* \[Risk\] Getting service assessment booked
+* \[Risk\] NHS trust infrastructure to be able to consume data from PIM
+* \[Risk\] PIM is an infrastructure that underpins multiple services - how do we frame what PIM is. What does "End-to-end" mean is this situation.
+* \[Risk\] Quality of MHRA is patchy - and is a dependency beyond our control
+* \[Risk\] User availability
+* \[Risk\] What constitutes a medical device? How can we decide what is included and excluded form PIM
 
