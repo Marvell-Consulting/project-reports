@@ -42,7 +42,6 @@ We have one goal for this sprint (two-week period)
 * \[Risk\] Getting service assessment booked
 * \[Risk\] NHS trust infrastructure to be able to consume data from PIM
 * \[Risk\] PIM is an infrastructure that underpins multiple services - how do we frame what PIM is. What does "End-to-end" mean is this situation.
-* \[Risk\] Quality of MHRA is patchy - and is a dependency beyond our control
 * \[Risk\] User availability
 * \[Risk\] What constitutes a medical device? How can we decide what is included and excluded from PIM
 
