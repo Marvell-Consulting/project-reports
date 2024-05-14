@@ -1,0 +1,9 @@
+﻿ID,Work Item Type,Title,Assigned To,State,Tags
+"165","User Story","[TASK] Update user needs board based on research findings","Aspasia Dellaporta <aspasia@marvell-consulting.com>","Closed",
+"170","User Story","Break apart the monolith into smaller services",,"Closed",
+"172","User Story","Analyse finds from current round of user reearch","Aspasia Dellaporta <aspasia@marvell-consulting.com>","Closed",
+"175","User Story","[TASK] Decide what we're going to test next - identify iteration 3","Adam Buttigieg <adam.buttigieg@marvell-consulting.com>","Closed",
+"177","User Story","Alpha assessment","mark.stringer <mark.stringer@marvell-consulting.com>","Closed",
+"178","User Story","Data publisher round 2 testing - research analysis prep & workshop ","Aspasia Dellaporta <aspasia@marvell-consulting.com>","Closed",
+"181","User Story","Conduct user research analysis of data processors - Round 2","Adam Buttigieg <adam.buttigieg@marvell-consulting.com>","Closed",
+"190","User Story","Onboarding Andy","Adam Buttigieg <adam.buttigieg@marvell-consulting.com>","Closed",
