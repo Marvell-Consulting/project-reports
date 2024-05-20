@@ -7,17 +7,18 @@ description: Sprint report for the StatsWales3 Sprint 7
 ![Helpful Histogram](histogram.jpeg)
 
 ## What we're planning to do this week
-* Access for full data cubes for Statswales2 [ON HOLD 18/04/2024]
-* Understand the variety of data sources
-* SOW and Milestones - documentation required in support of Beta
-* Solution Design Document
-* Intro page
-* Create first iteration of TO-BE journey map
-* Iterate data publishing content journey (prototype) - Version 3
-* User research housekeeping 
-* Aligning roadmap and release plan
-* Is there more than one data field in a current statsWales cube
-* Understand and reconcile geographical coverage options
+- Access full data cubes for StatsWales 2 [ON HOLD 18/04/2024]
+- Understand the variety of data sources
+- Create SOW and Milestones document for Private Beta
+- Finalise Solution Design Document
+- Implement 'Create a new dataset' page 
+- Create first iteration of TO-BE journey map
+- Iterate data publishing content journey - prototype version 3
+- User research housekeeping of participant lists for Private Beta
+- Align roadmap and release plan
+- Explore if there is more than one data field in a StatsWales 2 cube
+- Understand and reconcile geographical coverage options
+
 
 ## Goals
 These are the goals that we set for this sprint:
