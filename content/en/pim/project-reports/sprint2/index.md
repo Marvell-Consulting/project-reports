@@ -4,7 +4,7 @@ date: 2024-05-20
 description: Sprint report for DHSC PIM Sprint 2 
 ---
 
-![Carrot](carrot.jpg)
+![Carrot](carrots.jpg)
 ## What we did last week
 - Add tools for downloading and ingesting public PARD data
 - Compare the attributes required for each use case to what's provided per data source
