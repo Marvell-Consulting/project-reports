@@ -4,7 +4,7 @@ date: 2024-05-20
 description: Sprint report for the StatsWales3 Sprint 7
 ---
 
-![Helpful Histogram](histogram.jpg)
+![Helpful Histogram](histogram.jpeg)
 
 ## What we're planning to do this week
 * Access for full data cubes for Statswales2 [ON HOLD 18/04/2024]
@@ -32,4 +32,4 @@ The following things are still blocking the progress of the project
 * Architecture form - Azure subscriptions - ***We are still responding to comments on the service design documents, we do not currently have access***
 
 ## Screen shot of risks and issues board
-![Screenshot of risks and issues board](risksAndIssues20240507.png)
+![Screenshot of risks and issues board](risksAndIssues20240520.png)
