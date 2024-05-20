@@ -15,11 +15,9 @@ description: Sprint report for DHSC PIM Sprint 2
 
 ## What we’re planning to do this week
 - Acceptance criteria for design briefs
-- Compare the attributes required for each use case to what's provided per data source
 - Content: Explore how the service could be maintained and improved in the future
 - Define research plan for User Research in sprint 2
 - Document attempts to match MHRA data directly with GUDID
-- Document the MHRA data schema
 - Investigate quality issues with field validations in the MHRA dataset
 - Investigate tech in Trust-hosted PIMS, such as Atrify, Elcom, GHX.
 - Iterate prototypes - search
