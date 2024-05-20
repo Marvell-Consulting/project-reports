@@ -32,7 +32,7 @@ We have one goal for this sprint (two-week period)
 * Find out how people feel in NHS trusts about proposed view of 13 fields <span class="badge bg-info">_**In progress**_</span>
 
 ## Things to bear in mind
-* We are currently discussing a change to the programme of activities through through the next two sprints with the service owner
+* We are currently discussing a change to the programme of activities through the next two sprints with the service owner
 
 ## These are are currently identified risks and issues
 * \[Issue\] Different people building different overlapping systems
