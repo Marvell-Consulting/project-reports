@@ -40,8 +40,8 @@ description: Sprint report for DHSC PIM Sprint 2 (mid sprint)
 - [Risk]Final ownership
 - [Risk] Getting service assessment booked
 - [Risk] Lack of Engagement from manufacturers in a maintenance process
-- [Risk]NHS trust infrastructure to be able to consume data from PIM
-- [Risk] PIM is an infrastructure that underpins multiple services - how do we frame what PIM is. What does "End-to-end" mean is this situation.
+- [Risk] NHS trust infrastructure to be able to consume data from PIM
+- [Risk] PIM is an infrastructure that underpins multiple services - how do we frame what PIM is. What does "End-to-end" mean in this situation.
 - [Risk] Quality of Data - beyond our control
 - [Risk]User availability
 - [Risk] What constitutes a medical device? How can we decide what is included and excluded from PIM
