@@ -28,7 +28,7 @@ description: Sprint report for DHSC PIM Sprint 2 (mid sprint)
 
 ## Goals
 - Get the dynamic search and view dynamic prototype ready <span class="badge bg-info">_**In progress**_</span>
-- Given current knowledge about ALPHA assumption - agree clarity on ROADMAP <span class="badge bg-info">_**In progress**_</span>
+- Given current knowledge about ALPHA assumption - agree clarity on ROADMAP <span class="badge bg-success">_**Done**_</span> 
 - Widen our participant pool <span class="badge bg-info">_**In progress**_</span>
 
 ## Things to bear in mind
