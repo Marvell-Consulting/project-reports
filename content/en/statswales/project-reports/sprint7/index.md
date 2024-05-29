@@ -28,9 +28,9 @@ These are the goals that we set for this sprint:
 
 ## Things to bear in mind / What's blocking us
 The following things are still blocking the progress of the project
-* Access to the source data - ***We hope that some members of the team will have access to the data today***
+* Access to the source data - ***We hope to get access to the data this afternoon (21/05/2024)***
 * Agreement on access for Marvell subcontractors - ***Our subcontractors are in the process of getting the required certification***
-* Architecture form - Azure subscriptions - ***We are still responding to comments on the service design documents, we do not currently have access***
+* Architecture form - Azure subscriptions - ***We are still responding to comments on the service design documents, we do not currently have access, we are unsure if this is a dependency for access***
 
 ## Screen shot of risks and issues board
 ![Screenshot of risks and issues board](risksAndIssues20240520.png)
