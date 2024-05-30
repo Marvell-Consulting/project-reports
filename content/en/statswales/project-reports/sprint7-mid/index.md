@@ -46,7 +46,6 @@ The following things are still blocking us, although progress is being made:
 - Agreement on access for Marvell subcontractors ***Register Dynamics are going the process of being audited for Cyber Essentials Plus***
 - Architecture form - ***this has been discussed and issues that were raised are being addressed, we still do not yet have access to the subscriptions that we need***
 - We now have access to SW2 data cubes.
-- Open Data access of SW2 data does not include notes and footnotes which means that we cannot do analysis on those.
 
 ## Screen shot of risks and issues board
 ![Screenshot of risks and issues board](risksAndIssues20240528.png)
