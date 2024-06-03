@@ -52,3 +52,6 @@ included and excluded from PIM
 - \[Risk\] NHS trust infrastructure to be able to consume data from PIM
 - \[Risk\] Quality of Data - beyond our control
 - \[Risk\] User availability
+
+## Screenshot of current PIM prototype
+<a href="proto1_20240603"> <img src="proto1_20240603.png" alt="Dragonfruit" width="300"> </a>
