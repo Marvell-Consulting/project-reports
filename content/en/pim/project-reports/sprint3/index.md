@@ -54,4 +54,4 @@ included and excluded from PIM
 - \[Risk\] User availability
 
 ## Screenshot of current PIM prototype
-<a href="proto1_20240603"> <img src="proto1_20240603.png" alt="Dragonfruit" width="300"> </a>
+<a href="proto1_20240603.png"> <img src="proto1_20240603.png" alt="Dragonfruit" width="300"> </a>
