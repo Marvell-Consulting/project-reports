@@ -19,8 +19,8 @@ description: Sprint report for DHSC PIM Sprint 3
 - Assess record improvement of MHRA data using GUDID
 - Draft and send out data consumers survey
 - Identify best approach to API provision
-- Investigate quality issues with field validations in the MHRA dataset
-- Investigate tech in Trust-hosted PIMS, such as Atrify, Elcom, GHX. [On Hold 29/05/2024]
+- Investigate field validations in the MHRA dataset 
+- Investigate external catalogue provider technologies
 - Merge GUDID and MHRA data into a single SQLite db
 - Plan manufacturer workshop for Sprint 4
 - Test coded prototype with data consumers
