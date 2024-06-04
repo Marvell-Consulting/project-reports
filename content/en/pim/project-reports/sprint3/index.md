@@ -11,6 +11,8 @@ description: Sprint report for DHSC PIM Sprint 3
 
 - Document attempts to match MHRA data directly with GUDID
 - Improve search to include GMDN terms
+- Tested the dynamic prototype with users
+- Began drafting a to-be service map
 
 ## What we’re planning to do this week
 
@@ -19,11 +21,14 @@ description: Sprint report for DHSC PIM Sprint 3
 - Assess record improvement of MHRA data using GUDID
 - Draft and send out data consumers survey
 - Identify best approach to API provision
-- Investigate field validations in the MHRA dataset 
+- Investigate field validations in the MHRA dataset
 - Investigate external catalogue provider technologies
 - Merge GUDID and MHRA data into a single SQLite db
 - Plan manufacturer workshop for Sprint 4
 - Test coded prototype with data consumers
+- Research workshop with a medtech data platform project
+- Mapping data maintenance user journeys
+- Identifying design iterations to the dynamic prototype based on user feedback
 
 ## Goals
 
@@ -34,12 +39,15 @@ These were the goals that we had last week:
 These are the goals that we have this week:
 
 - Get better data for analysis and prototyping
+
 <span class="badge bg-info">_**In progress**_</span>
 
 - Understanding users responses to the coded prototype
+
 <span class="badge bg-info">_**In progress**_</span>
 
 - Widen our participant pool
+
 <span class="badge bg-info">_**In progress**_</span>
 
 ## These are are currently identified risks and issues
@@ -54,4 +62,7 @@ included and excluded from PIM
 - \[Risk\] User availability
 
 ## Screenshot of current PIM prototype
-<a href="proto1_20240603.png"> <img src="proto1_20240603.png" alt="Dragonfruit" width="300"> </a>
+
+<a href="proto1_20240603.png">
+ <img src="proto1_20240603.png" alt="Dragonfruit" width="300">
+</a>
