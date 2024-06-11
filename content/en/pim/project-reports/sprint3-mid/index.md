@@ -54,7 +54,7 @@ description: Sprint report for DHSC PIM Sprint 3 (mid sprint)
 - [Risk] Differing Visions of what' we're doing (Beta, proof of concept)
 - [Risk] Final ownership
 - [Risk] Lack of Engagement from manufacturers in a maintenance process
-- [Risk]NHS trust infrastructure to be able to consume data from PIM
+- [Risk] NHS trust infrastructure to be able to consume data from PIM
 - [Risk] User availability
 
 
