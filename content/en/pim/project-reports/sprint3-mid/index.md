@@ -12,8 +12,6 @@ description: Sprint report for DHSC PIM Sprint 3 (mid sprint)
 - Add quality analysis queries to code repository
 - Assess record improvement of MHRA data using GUDID
 - Draft and send out data consumers survey
-- GOAL: Understanding users responses to the coded prototype
-- GOAL: Widen our participant pool
 - Ideation of data collection models
 - Investigate quality issues with field validations in the MHRA dataset
 - Investigate tech in Trust-hosted PIMS, such as Atrify, Elcom, GHX.
@@ -32,7 +30,6 @@ description: Sprint report for DHSC PIM Sprint 3 (mid sprint)
 - Design a data model for representing data provenance
 - Design iterations for next round of testing (data consumers)
 - Explore design approaches to data maintenance
-- GOAL: Get better data for analysis and prototyping
 - Identify best approach to API provision
 - Investigate deduplicating products
 - Output - outlining manufacture incentives
@@ -45,7 +42,7 @@ description: Sprint report for DHSC PIM Sprint 3 (mid sprint)
 
 - Get the dynamic search and view dynamic prototype ready <span class="badge bg-success">_**Done**_</span>
 - Widen our participant pool <span class="badge bg-success">_**Done**_</span> 
-
+- Get better data for analysis and prototyping - <span class="badge bg-info">_**In progress**_</span>
 
 ## These are are currently identified risks and issues
 
