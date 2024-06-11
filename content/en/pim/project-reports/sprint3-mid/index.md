@@ -43,12 +43,13 @@ Goals
 -----
 
 - Get the dynamic search and view dynamic prototype ready
-    [***Done***]{.badge .bg-success}
+ <span class="badge bg-success">_**Done**_</span>
 
-- Widen our participant pool [***Done***]{.badge .bg-success}
+- Widen our participant pool
+ <span class="badge bg-success">_**Done**_</span>
 
-- Get better data for analysis and prototyping [***In
-    progress***]{.badge .bg-info}
+- Get better data for analysis and prototyping
+ <span class="badge bg-info">_**In progress**_</span>
 
 These are are currently identified risks and issues
 ---------------------------------------------------
