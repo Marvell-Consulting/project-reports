@@ -29,7 +29,6 @@ What we're planning to do this week
 - Appraise NHS Supply Chain
 - Decide approach for data engineering pipeline
 - Research outputs to date
-- GOAL: Get better data for analysis and prototyping
 - Plan manufacturer workshop for Sprint 5
 - Graphic for data collection workflows to show manufacturers
 - Investigate deduplicating products
