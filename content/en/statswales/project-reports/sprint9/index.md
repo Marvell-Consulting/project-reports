@@ -7,6 +7,9 @@ description: Sprint report for the StatsWales3 Sprint 9
 Weekly report
 =============
 
+Joint probability distribution
+------------------------------
+
 ![Joint probability](jointProbabilityDistribution.png)
 
 What we're planning to do this week
@@ -52,7 +55,7 @@ The following things are still blocking the progress of the project
 Screen shot of risks and issues board
 -------------------------------------
 
-![Screenshot of risks and issues board](risksAndIssues20240610.png)
+![Screenshot of risks and issues board](risksAndIssues20240617.png)
 
 Screen shot of prototype tested with users
 ------------------------------------------
