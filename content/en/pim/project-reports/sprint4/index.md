@@ -4,13 +4,14 @@ date: 2024-06-17
 description: Sprint report for DHSC PIM Sprint 4
 ---
 
-Weekly report
-=============
+Weekly report - elderberries
+============================
 
 ![Elderberries](elderberries.jpg)
 
 What we did last week
 ---------------------
+
   Design a data model for representing data provenance
 - CSV/XLS export
 - GMDN hierarchy
@@ -40,6 +41,7 @@ What we're planning to do this week
 
 Goals
 -----
+
 - First prototype for data maintenance.
  <span class="badge bg-info">_**In progress**_</span>
 
