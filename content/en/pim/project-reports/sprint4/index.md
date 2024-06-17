@@ -12,7 +12,9 @@ Weekly report - elderberries
 What we did last week
 ---------------------
 
-  Design a data model for representing data provenance
+- Delivered a report giving advice on estimation strategies for PIM cash
+ benefits
+-  Design a data model for representing data provenance
 - CSV/XLS export
 - GMDN hierarchy
 - Output - outlining manufacture incentives
