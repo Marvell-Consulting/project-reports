@@ -21,7 +21,7 @@ What we're planning to do this week
 - Register Dynamics - Cyber Essentials Plus
 - Investigate missing values in SW2 - and map out TO - BE (Data & Design) Consumers
 - Analyse Stats Wales 2 data [On hold 06/06/2024]
--[SPIKE]  Gel React components
+- [SPIKE]  Gel React components
 - High-level plan for user research in Beta
 - Investigate missing values in SW2 - and map out TO - BE (Data & Design)
 - Implement auth into relevant services
@@ -47,10 +47,13 @@ Things to bear in mind / What's blocking us
 The following things are still blocking the progress of the project
 
 - Access to the source data
+***Access to source data - TBC***
 
 - Agreement on access for Marvell subcontractors (Cyber Essentials Plus)
+***certification is expected by the end of the week - the audit is booked***
 
 - Azure subscriptions
+***Azure is still TBC - our SDD was updated to reflect a few more questions***
 
 Screen shot of risks and issues board
 -------------------------------------
