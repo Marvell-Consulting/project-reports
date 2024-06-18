@@ -15,7 +15,7 @@ What we did last week
 - Delivered a report giving advice on estimation strategies for PIM cash
  benefits
 - Design a data model for representing data provenance
-- CSV/XLS export and download - Enables download of search results in CSV or EXCEL format
+- CSV/XLS export and download - enables download of search results in CSV or EXCEL format
 - We've obtained GMDN data and it has been loaded into a hierarchy - a demonstrator of this will be shown this week
 - Output - outlining manufacture incentives
 - Understand GMDN license agreement
