@@ -14,7 +14,7 @@ What we did last week
 
 - Delivered a report giving advice on estimation strategies for PIM cash
  benefits
--  Design a data model for representing data provenance
+- Design a data model for representing data provenance
 - CSV/XLS export and download - Enables download of search results in CSV or EXCEL format
 - We've obtained GMDN data and it has been loaded into a hierarchy - a demonstrator of this will be shown this week
 - Output - outlining manufacture incentives
@@ -55,7 +55,7 @@ These are are currently identified risks and issues
 - [Risk] Access to data
 - [Risk] Differing Visions of what' we're doing (Beta, proof of concept)
 - [Issue] Different people building different overlapping systems
-- [Risk]NHS trust infrastructure to be able to consume data from PIM
+- [Risk] NHS trust infrastructure to be able to consume data from PIM
 - [Issue] What constitutes a medical device? How can we decide what is included
 and excluded from PIM
 
@@ -64,6 +64,6 @@ and excluded from PIM
 pre-election period.
 
 - [Risk] Quality of Data - beyond our control
-- [Risk]User availability
-- [Risk]Final ownership
+- [Risk] User availability
+- [Risk] Final ownership
 - [Risk] Consumer perception
