@@ -27,13 +27,13 @@ What we're planning to do this week
 - Plan manufacturer workshop for Sprint 4
 - Import full GMDN data (including hierarchies!)
 - Get RC service map and data flows from MHRA
-- Sorting of search results in the prototype, especially by manufacturer
+- Sorting of search results in the protoype, especially by manufacturer
 - Appraise NHS Supply Chain
 - Decide approach for data engineering pipeline
 - Research outputs to date
 - Plan manufacturer workshop for Sprint 5
 - Graphic for data collection workflows to show manufacturers
-- Investigate de-duplication products
+- Investigate deduplicating products
 - Analyse data consumer survey responses
 - Identify best approach to API provision
 - Authz requirements for PIM users
