@@ -23,9 +23,9 @@ What we're planning to do this week
 - Register Dynamics - Cyber Essentials Plus
 - Hold workshop to review toolkit for bilingual software and develop action plan
 - [SPIKE]  Gel React components
- High-level plan for user research in Beta
-[TASK] Investigate missing values in SW2 - and map out TO - BE (Data & Design)
-Implement auth into relevant services
+- High-level plan for user research in Beta
+- [TASK] Investigate missing values in SW2 - and map out TO - BE (Data & Design)
+- Implement auth into relevant services
 
 Goals
 -----
