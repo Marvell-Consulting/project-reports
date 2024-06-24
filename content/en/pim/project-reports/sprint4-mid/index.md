@@ -20,6 +20,8 @@ What we did last week
 - Load MHRA DORS data into Design System-based prototype
 - Test coded prototype with data consumers [Round 3]
 - Ideation of data collection models
+- Implement 'Name the dataset' - working software
+- Implement 'Choose a dataset to upload' - working software
 
 What we're planning to do this week
 -----------------------------------
@@ -43,10 +45,10 @@ What we're planning to do this week
 
 Goals
 -----
-- First prototype for data maintenance. In progress
+- First prototype for data maintenance.
  <span class="badge bg-info">_**In progress**_</span>
 
-- Get better data for analysis and prototyping In progress
+- Get better data for analysis and prototyping
  <span class="badge bg-info">_**In progress**_</span>
 
 These are are currently identified risks and issues
