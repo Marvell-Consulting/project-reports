@@ -12,6 +12,8 @@ Weekly report
 What we did last week
 ---------------------
 - Conduct data consumer survey analysis
+- Implement 'Name the dataset'
+- Implement 'Choose a dataset to upload'
 
 What we're planning to do this week
 -----------------------------------
