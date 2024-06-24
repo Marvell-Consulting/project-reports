@@ -19,7 +19,7 @@ What we're planning to do this week
 - Recommendations and next steps from round 3 testing
 - [Task] Analyse findings from 'Browse by topic' exercise with data consumers
 - Data domain model
-- Data audit for data migration 
+- Data audit for data migration
 - Register Dynamics - Cyber Essentials Plus
 - Hold workshop to review toolkit for bilingual software and develop action plan
 - [SPIKE]  Gel React components
@@ -35,12 +35,11 @@ These are the goals that we set for this sprint:
 - Authorisation for the service (development)
  <span class="badge bg-info">_**In progress**_</span>
 
-- Settle on a design for footnotes, notes, missing values, provisional data (research and design)
- <span class="badge bg-info">_**In progress**_</span>
+- Settle on a design for footnotes, notes, missing values, provisional data 
+(research and design) <span class="badge bg-info">_**In progress**_</span>
 
 - Start to understand the update journey (research and design)
  <span class="badge bg-info">_**In progress**_</span>
-
 
 Things to bear in mind / What's blocking us
 -------------------------------------------
@@ -54,10 +53,11 @@ which we hope to get approval***
 
 - Agreement on access for Marvell subcontractors
 
-***We have booked a Cyber Essentials Plus Audit*** 
+***We have booked a Cyber Essentials Plus Audit***
 - Architecture form - Azure subscriptions
 
-***We are waiting for the go ahead for this after discussions around the Service Desciption Document***
+***We are waiting for the go ahead for this after discussions around the Service
+ Desciption Document***
 
 Screen shot of risks and issues board
 -------------------------------------
