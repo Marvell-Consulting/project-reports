@@ -10,11 +10,11 @@ What we did last week
 ---------------------
 - Research outputs to date
 - Design iterations for next round of testing (data consumers)
-- Add back-end for flag/request in prototype
+- Add backend for flag/request in prototype
 - Design a data model for representing data provenance
 - Decide approach for data engineering pipeline
 - Content questions for UR
-- Get list of GMDN categories that look like single attributes with multiple values
+- Get list of GMDN categories that look like single attributes with multiple vaues
 - Content iterations of prototype
 - Import full GAMINE data (including hierarchies!)
 - Understand GMDN license agreement
@@ -26,7 +26,7 @@ What we did last week
 
 What we're planning to do this week
 -----------------------------------
-- Investigate de-duplicating products
+- Investigate deduplicating products
 - Explore design approaches to data maintenance
 - Get RC service map and data flows from MHRA [Waiting from 13/06/2024]
 - Identity - identify users to PIM, can we re-use existing MHRA structures to allow NHS and manufacturing users to log in?
