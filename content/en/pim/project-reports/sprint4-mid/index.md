@@ -43,16 +43,22 @@ What we're planning to do this week
 
 Goals
 -----
+- First prototype for data maintenance. In progress
+ <span class="badge bg-info">_**In progress**_</span>
 
-- Get the dynamic search and view dynamic prototype ready
- <span class="badge bg-success">_**Done**_</span>
-
-- Widen our participant pool
- <span class="badge bg-success">_**Done**_</span>
-
-- Get better data for analysis and prototyping
+- Get better data for analysis and prototyping In progress
  <span class="badge bg-info">_**In progress**_</span>
 
 These are are currently identified risks and issues
 ---------------------------------------------------
-
+- [Risk] Access to data
+- [Risk] Differing Visions of what' we're doing (Beta, proof of concept)
+- [Issue] Different people building different overlapping systems
+- [Risk] NHS trust infrastructure to be able to consume data from PIM
+- [Issue] What constitutes a medical device? How can we decide what is included and excluded from PIM
+- [Risk] Lack of Engagement from manufacturers in a maintenance process
+- [Issue] Some comms teams won't distribute calls for researchers in pre-election period.
+- [Risk] Quality of Data - beyond our control
+- [Risk] User availability
+- [Risk] Final ownership
+- [Risk] Consumer perception
