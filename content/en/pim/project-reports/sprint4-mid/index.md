@@ -47,7 +47,7 @@ Goals
 - Get better data for analysis and prototyping
  <span class="badge bg-info">_**In progress**_</span>
 
-These are are currently identified risks and issues
+These are our currently identified risks and issues
 ---------------------------------------------------
 - [Risk] Access to data
 - [Risk] Differing Visions of what' we're doing (Beta, proof of concept)
