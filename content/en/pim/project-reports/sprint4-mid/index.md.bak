@@ -1,0 +1,62 @@
+---
+title: Sprint 4  (mid sprint)
+date: 2024-06-24
+description: Sprint report for DHSC PIM Sprint 4  (mid sprint)
+---
+
+![Elderberry Fruit](elderberryFruit.jpeg)
+
+What we did last week
+---------------------
+- Research outputs to date
+- Design iterations for next round of testing (data consumers)
+- Add backend for flag/request in prototype
+- Design a data model for representing data provenance
+- Decide approach for data engineering pipeline
+- Content questions for UR
+- Get list of GMDN categories that look like single attributes with multiple vaues
+- Content iterations of prototype
+- Import full GAMINE data (including hierarchies!)
+- Understand GMDN license agreement
+- Output - outlining manufacture incentives
+- Sorting of search results in the prototype, especially by manufacturer 
+- Authz requirements for PIM users
+- Graphic for data collection workflows to show manufacturers
+
+
+What we're planning to do this week
+-----------------------------------
+- Investigate deduplicating products
+- Explore design approaches to data maintenance
+- Get RC service map and data flows from MHRA [Waiting from 13/06/2024]
+- Identity - identify users to PIM, can we re-use existing MHRA structures to allow NHS and manufacturing users to log in?
+- Import full GMDN data (including hierarchies!) 
+- Plan manufacturer workshop for Sprint 5
+- Draft design for a cloud architecture
+- Appraise NHS Supply Chain
+- Develop prototypes for data maintenance options
+- Assess how we need to protect from or mitigate fraudulent or malicious activity
+- Plan manufacturer workshop for Sprint 4
+- Identify best approach to API provision 
+
+Goals
+-----
+- First prototype for data maintenance.
+ <span class="badge bg-info">_**In progress**_</span>
+
+- Get better data for analysis and prototyping
+ <span class="badge bg-info">_**In progress**_</span>
+
+These are are currently identified risks and issues
+---------------------------------------------------
+- [Risk] Access to data
+- [Risk] Differing Visions of what' we're doing (Beta, proof of concept)
+- [Issue] Different people building different overlapping systems
+- [Risk] NHS trust infrastructure to be able to consume data from PIM
+- [Issue] What constitutes a medical device? How can we decide what is included and excluded from PIM
+- [Risk] Lack of Engagement from manufacturers in a maintenance process
+- [Issue] Some comms teams won't distribute calls for researchers in pre-election period.
+- [Risk] Quality of Data - beyond our control
+- [Risk] User availability
+- [Risk] Final ownership
+- [Risk] Consumer perception
