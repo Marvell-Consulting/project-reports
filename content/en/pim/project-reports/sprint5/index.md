@@ -38,13 +38,13 @@ Goals
  <span class="badge bg-success">_**Done**_</span>
 
 - Get better data for analysis and prototyping
-  <span class="badge bg-info">_**In progress**_</span>
+ <span class="badge bg-info">_**In progress**_</span>
 
 - Learn more about manufacturer incentives and constraints
- <span class="badge bg-success">_**Done**_</span>
+ <span class="badge bg-info">_**In progress**_</span>
 
 -  Document and outputs for Alpha
- <span class="badge bg-success">_**Done**_</span>
+ <span class="badge bg-info">_**In progress**_</span>
 
 These are are currently identified risks and issues
 ---------------------------------------------------
