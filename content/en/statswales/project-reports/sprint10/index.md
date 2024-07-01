@@ -16,15 +16,15 @@ What we're planning to do this week
 -----------------------------------
 
 - Formalise options for updating data table (append or replace etc)
-- Update user flow (happy path)
+- Happy path user flow for updating a dataset 
 - Identify and interrogate list of update scenarios
 - [SPIKE] Data access strategy
 - Recommendations and next steps from round 3 testing
 - Data domain model
 - Data audit for data migration 
 - Register Dynamics - Cyber Essentials Plus
-- Hold workshop to review toolkit for bilingual software and develop action plan
-- [TASK] Investigate missing values in SW2 - and map out TO - BE (Data & Design)
+- Hold workshop to review toolkit for bilingual software and develop action plana
+- Proposed approach for footnotes including missing values
 - Implement auth into relevant services
   Goals
 
