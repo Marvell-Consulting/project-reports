@@ -1,5 +1,5 @@
 ---
-title: Sprint 10 - Joint probability distribution
+title: Sprint 10 
 date: 2024-07-01
 description: Sprint report for the StatsWales3 Sprint 10
 ---
