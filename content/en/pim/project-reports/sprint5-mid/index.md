@@ -10,7 +10,7 @@ What we did last week
 ---------------------
 
 - Test PIM prototype with data consumers
-- Set up session with PAQ team
+- Set up and run session with PAQ team
 - Plan and run manufacturer workshops for Sprint 5
 - Add context, constraint and beta plan slides to the assessment show and tell slide deck
 - Set up session with DHSC supply resilience team
