@@ -1,5 +1,5 @@
 ---
-title: Sprint 10 
+title: Sprint 10 Kruskall-Wallace test 
 date: 2024-07-01
 description: Sprint report for the StatsWales3 Sprint 10
 ---
