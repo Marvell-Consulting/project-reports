@@ -1,5 +1,5 @@
 ---
-title: Sprint 10 Mid - Joint Probability Distribution
+title: Sprint 10 (Mid) 
 date: 2024-07-08
 description: Sprint report for the StatsWales3 Sprint 10 - Mid
 ---
