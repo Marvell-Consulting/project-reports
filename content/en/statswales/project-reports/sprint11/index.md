@@ -37,11 +37,10 @@ What we're planning to do this week
 
 These are the goals that we set for this sprint:
 
-- Authorisation for the service (development)
+- Prepare to test candidate options for update dataset user journey (research and design)
   <span class="badge bg-info">_**In progress**_</span>
 
-- Agree TO BE update dataset user journey - minimum viable product (research
-  and design)
+- Complete publish a dataset up to task list with stories up to metadata (development)
   <span class="badge bg-info">_**In progress**_</span>
 
 Things to bear in mind / What's blocking us
@@ -53,7 +52,7 @@ The following things are still blocking the progress of the project
   ***We are waiting to take a cut of the data that we should be able to use to inform further work, especially migration***
 
 - Agreement on access for Marvell subcontractors (Cyber Essentials Plus)
-  ***This is being pursued by Marvell as a priority***
+  ***This is currently being pursued by Marvell as a priority***
 
 - Azure subscriptions
   ***We still don't have access to the Azure estate in a way that we require to continue development***
