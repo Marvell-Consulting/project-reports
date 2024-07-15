@@ -21,6 +21,7 @@ What we did last week
 What we're planning to do this week
 -----------------------------------
 
+- Create stimulus for update journey research
 - Stand up the service in WG Azure
 - [SPIKE] Explore react front-end for the app
 - Happy path user flow for updating a dataset
