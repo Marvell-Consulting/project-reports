@@ -12,7 +12,6 @@ Longtitudinal study
 
 ![longtitudinal](longtitudinal.png)
 
-
 What we did last week
 ------------------------
 
