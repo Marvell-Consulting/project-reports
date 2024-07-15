@@ -55,7 +55,7 @@ The following things are still blocking the progress of the project
   ***This is currently being pursued by Marvell as a priority***
 
 - Azure subscriptions
-  ***We still don't have access to the Azure estate in a way that we require to continue development***
+ ***Marvell working to establish pipelines in Azure in order to begin migration of the service into the WG estate.***
 
 Screen shot of risks and issues board
 -------------------------------------
