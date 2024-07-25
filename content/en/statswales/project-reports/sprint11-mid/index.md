@@ -25,7 +25,7 @@ What we're planning to do this week
 - Stand up the service in WG Azure
 - Review the spreadsheet coming out of Bilingual toolkit discussion
 - Happy path user flow for updating a dataset
-- [SPIKE] Data access strategy [On Hold 11/07/20234]
+- [SPIKE] Data access strategy [On Hold 11/07/2024]
 - Plan the next round of research
 - Data domain model
 - Data audit for data migration 
