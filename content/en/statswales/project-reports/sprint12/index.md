@@ -10,7 +10,7 @@ Weekly report
 Mean Average
 ------------------------------
 
-![Mean Average](/home/mark/projects/project-reports/content/en/statswales/project-reports/sprint12/mean.png)
+![Mean Average](mean.png)
 
 What we did last week
 ------------------------
