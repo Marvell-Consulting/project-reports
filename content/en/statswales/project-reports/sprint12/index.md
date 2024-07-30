@@ -53,7 +53,7 @@ Things to bear in mind / What's blocking us
 The following things are still blocking the progress of the project
 
 - Access to the source data
-  ***Looking to sign the data access agreement today and then look forward to getting a useable cut of the data soon after this***
+  ***Data sharing agreement is shared and back with the Welsh Gov to finally provide us with the data***
 
 - Agreement on access for Marvell subcontractors (Cyber Essentials Plus)
   ***This is no longer a blocker, our subcontractrs have the relevant certification***
