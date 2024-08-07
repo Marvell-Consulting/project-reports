@@ -31,11 +31,10 @@ What we're planning to do this week
 - Data audit for data migration 
 - Implement Successful upload confirmation (data table preview)
 
+Sprint goals
 -----------------------------------
 
 These are the goals that we set for this sprint:
-
-Sprint MEAN GOAL: Complete "publish a dataset" up to metadata (development) GOAL: Converge on approach for the update journey GOAL: Azure pipeline in WG estate
 
 - Complete "publish a dataset" up to metadata (development)
   <span class="badge bg-info">_**In progress**_</span>
@@ -54,7 +53,7 @@ The following things are still blocking the progress of the project
 - Access to the source data
   ***A data archive file was provided, but did not contain the data that was anticipated, we are continuing discussions to obtain the correct file***
 - Azure subscriptions
- ***This work is progressing, we hope soon to have correct files***
+  ***This work is progressing, we hope soon to have correct files***
 
 Screen shot of risks and issues board
 -------------------------------------
@@ -65,5 +64,3 @@ Risk impact chart
 -------------------------------------
 
 ![Risk impact chart](impact_score20240805.png)
-
-
