@@ -53,7 +53,7 @@ The following things are still blocking the progress of the project
 - Access to the source data
   ***A data archive file was provided, but did not contain the data that was anticipated, we are continuing discussions to obtain the correct file***
 - Azure subscriptions
-  ***This work is progressing, we hope soon to have correct files***
+  ***We have subscription. We will have the pipeline very soon***
 
 Screen shot of risks and issues board
 -------------------------------------
