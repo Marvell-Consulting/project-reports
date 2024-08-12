@@ -17,6 +17,9 @@ What we did last week
 
 - Plan and conduct tree test of topics taxonomy (publishers and data consumers)
 - Data audit for data migration 
+- Held review workshops with publishers to test options for making updates to a dataset
+- Proposed iterations to update journey approach informed by workshops with publishers
+- Planning for taxonomy tree test
 
 What we're planning to do this week
 -----------------------------------
