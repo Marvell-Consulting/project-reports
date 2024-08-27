@@ -10,7 +10,7 @@ Weekly report
 Outlier
 ------------------------------
 
-![Outlier](outlier.png)
+![Outlier](outlier.jpg)
 
 What we did last week
 ------------------------
