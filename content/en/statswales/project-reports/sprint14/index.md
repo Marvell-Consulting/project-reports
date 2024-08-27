@@ -36,9 +36,8 @@ What we're planning to do this week
 - Implement domain model on back-end
 - Data domain model
 
------------------------------------
-
 These are the goals that we set for this sprint:
+-----------------------------------
 
 - Complete “publish a dataset” up to metadata
   <span class="badge bg-info">_**In progress**_</span>
