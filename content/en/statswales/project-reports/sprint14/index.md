@@ -55,7 +55,7 @@ Things to bear in mind / What's blocking us
 The following things are still blocking the progress of the project
 
 - Access to the source data
-  ***We are still looking at the data file***
+  ***We are seeking access to a data source which we think will help with progress***
 
 - Azure pipeline
   ***We do not yet have a full pipeline from Marvell Azure to Welsh Government Azure***
