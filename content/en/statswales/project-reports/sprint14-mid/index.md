@@ -24,14 +24,14 @@ What we're planning to do this week
 - OData loader
 - Conduct and analyse tree test of topics taxonomy (with publishers)
 - KAS Analysis of data migration exercise (questionnaire)
-- Prototype update journey
 - Discussion - what needs to happen next to progress data migration?
 - Planning next round of research with publishers.
 - Stand up the service in WG Azure
-- Happy path user flow for updating a dataset
 - [SPIKE] Data access strategy
 - Implement domain model on back-end
 - Data domain model
+- Consumer experience workshops: Challenges and idea generation
+
 
 
 Sprint goals
