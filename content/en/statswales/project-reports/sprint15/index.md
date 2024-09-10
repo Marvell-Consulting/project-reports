@@ -22,7 +22,7 @@ What we're planning to do this week
 -----------------------------------
 
 - Mocked data prototypes for publisher update journey research
-- "Consumer experience workshops: Challenges
+- Consumer experience workshops: challenges, ideas and planning 
 - Run the consumer taxonomy study
 - Plan the next round of consumer research
 - [SPIKE] OneLogin prototype
