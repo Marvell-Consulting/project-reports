@@ -1,7 +1,7 @@
 ---
 title: Sprint 15 p-value 
-date: 2024-09-10
-description: Sprint report for the StatsWales3 Sprint 15
+date: 2024-09-17
+description: Sprint report for the StatsWales3 Sprint 15-mid
 ---
 
 Weekly report
