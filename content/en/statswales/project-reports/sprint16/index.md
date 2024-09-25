@@ -15,8 +15,7 @@ Quartile
 What we did last week
 ------------------------
 
-- TRAN0140 update data table prototype
-- HLTH3020 update data table prototype
+- Prepare prototype with real data for testing 
 - Test the guidance for publishers
 - "Enable a working environment
 - Run the consumer taxonomy study
