@@ -15,11 +15,10 @@ Quartile
 What we did last week
 ------------------------
 
-- Send the guidance to SME
+- Share guidance with SME in preparation for testing in working software
 - Design exploration - upload your own lookup table
-- Prepare update data table prototype
-- Test the guidance for publishers
-- [BUG] Publish a dataset flow gets stuck in a loop.
+- Update data table prototype with real data
+- Test data preparation guidance with publishers
 - Run the consumer taxonomy study
 - Follow up on feedback so far from taxonomy study
 - Consume the domain model on the front end
@@ -35,10 +34,10 @@ What we're planning to do this week
 
 - Dimension: Load reference data 
 - Prototype iterations to update data table journey
-- Stand up all bits of infrastructure from scratch in Terraform
-- SW3 OKRs and metrics 
+- Stand up all bits of infrastructure from scratch in Terraform for Marvell
+- Define SW3 OKRs and metrics 
 - Remove lang from URL path in the backend and use header
-- Extract data for testing updates
+- Extract tran0140 for testing updates
 - Get reference data into postgres database
 - Test the proposed taxonomy with consumers
 - Test the update journey designs
@@ -46,7 +45,6 @@ What we're planning to do this week
 - Plan the next round of consumer research
 - Identify candidate area that could be prototyped and conducted in Welsh.
 - Stand up the service in WG Azure
-
 
 These are the goals that we set for this sprint
 -----------------------------------------------
