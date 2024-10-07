@@ -61,4 +61,4 @@ These are the goals that we set for this sprint:
 Screen shot of risks and issues board
 -------------------------------------
 
-![Screenshot of risks and issues board](risksBoard20240923.jpg)
+![Screenshot of risks and issues board](risksBoard20241007.jpg)
