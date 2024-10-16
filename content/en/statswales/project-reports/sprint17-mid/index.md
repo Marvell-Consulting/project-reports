@@ -59,4 +59,8 @@ Screen shot of risks and issues board
 
 ![Screenshot of risks and issues board](RisksBoard20241016.png)
 
+
+Risk impact score chart
+-----------------------
+
 ![Chart of risk impact score](impact_score20241016.png)
