@@ -1,5 +1,5 @@
 ---
-title: Sprint 16-mid Regression
+title: Sprint 17-mid Regression
 date: 2024-10-16
 description: Sprint report for the StatsWales3 Sprint 17-mid 
 ---
