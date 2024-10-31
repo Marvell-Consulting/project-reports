@@ -42,8 +42,10 @@ These are the goals that we set for this sprint
 
 Ready to test time series dimension with SME 
 <span class="badge bg-info">_**In progress**_</span>
+
 Conduct research sessions with consumers to test v1 of find and view
-<span class="badge bg-info">_**In progress**_</span>
+<span class="badge bg-success">_**Done**_</span>
+
 Progress our understanding of the cube model
 <span class="badge bg-info">_**In progress**_</span>
 
