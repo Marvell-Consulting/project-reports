@@ -49,3 +49,14 @@ Screen shot of risks and issues board
 -------------------------------------
 
 ![Screenshot of risks and issues board](risksBoard20241104.png)
+
+Screenshots of Prototype Demonstrated at the Show and Tell
+----------------------------------------------------------
+
+<a href="proto1_20241104.png"><img src="proto1_20241104.png" alt="HTML5 Icon" width="200" style="border:2px solid black" /></a>
+
+
+<a href="proto2_20241104.png"><img src="proto2_20241104.png" alt="HTML5 Icon" width="200" style="border:2px solid black" /></a>
+
+
+<a href="proto3_20241104.png"><img src="proto3_20241104.png" alt="HTML5 Icon" width="200" style="border:2px solid black" /></a>
