@@ -53,6 +53,8 @@ Screen shot of risks and issues board
 Screenshots of Prototype Demonstrated at the Show and Tell
 ----------------------------------------------------------
 
+These are screenshots of working software from the publisher create journey. They will very probably change as part of the incremental development process.
+
 <a href="proto1_20241104.png"><img src="proto1_20241104.png" alt="HTML5 Icon" width="200" style="border:2px solid black" /></a>
 
 
