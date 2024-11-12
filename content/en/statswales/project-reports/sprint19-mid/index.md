@@ -24,7 +24,6 @@ What we did last week
 - Missing error message "failed_to_get_preview"
 - Explore new OData service
 
-
 What we're planning to do this week
 -----------------------------------
 
@@ -58,6 +57,9 @@ Chart showing change in risk profile
 
 ![Chart showing change in risk profile](riskImpactScore20241111.png)
 
-Service Map showing changes that will be made to the service in Stats Wales 3
+Transformation map showing changes that will be made to the service in Stats Wales 3
 -----------------------------------------------------------------------------
+
+The map shows the holistic end-to-end transformation of StatsWales. It highlights painpoints evidenced in the current service and proposed outcomes as a result of processes that will be removed, added or changed.
+
 <a href="proto1_20241111.jpg"><img src="proto1_20241111.jpg" alt="HTML5 Icon" width="400" style="border:2px solid black" /></a>
