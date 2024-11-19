@@ -57,8 +57,8 @@ These are the goals that we set for this sprint:
 
 Video of the most recent show and tell
 --------------------------------------
-![Show and Tell 14_11_2024](https://drive.google.com/file/d/18JU6gKGDaFBkK2l1rCvwjJV0aodEnEIU/view?usp=sharing)
+[Show and Tell 14_11_2024](https://drive.google.com/file/d/18JU6gKGDaFBkK2l1rCvwjJV0aodEnEIU/view?usp=sharing)
 
 Current version of the service transformation map
 -------------------------------------------------
-
+[Transformation map](transformationMap.pdf)
