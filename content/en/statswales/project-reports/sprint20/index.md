@@ -1,6 +1,6 @@
 ---
-title: Sprint 19 - U-statistic 
-date: 2024-11-04
+title: Sprint 20 - U-statistic 
+date: 2024-11-19
 description: Sprint report for the StatsWales3 Sprint 20
 ---
 
@@ -23,7 +23,6 @@ What we did last week
 - Ability to edit the data table section after it has been completed
 - Links to data table task duplicated
 - Create a dataset: Error message
-- [Spike] Agree approach to login / registration [Won't fix]
 - Metadata: How is this dataset designated?
 - Metadata: Will this dataset be regularly updated?
 - Metadata: Report links added
@@ -53,7 +52,15 @@ Goals
 These are the goals that we set for this sprint:
 - Understand the scope for remaining items on the roadmap for MVP. <span class="badge bg-info">_**In progress**_</span>
 - Identify and document a steel thread for create journey working software <span class="badge bg-info">_**In progress**_</span>
-- End to end test environment Goal: Deploy to WG infrastructure. (U-statistic) <span class="badge bg-info">_**In progress**_</span>
+- End to end test environment <span class="badge bg-info">_**In progress**_</span>
+- Deploy to WG infrastructure. (U-statistic) <span class="badge bg-info">_**In progress**_</span>
+
+Risk and Issue
+-------------------------------
+Current table showing project Risks and Issues
+![Risks and Issues](RisksAndIssues20241119.png)
+
+
 
 Video of the most recent show and tell
 --------------------------------------
