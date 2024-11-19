@@ -18,11 +18,10 @@ What we did last week
 - Summarise findings and next steps from taxonomy research study
 - Prepare Data Model Solution Design deliverable for submission to the data working group
 - Prep for project board 11:30  Monday 11th November
-- Exploration of totals and averages
 - Create the SW3 map to demonstrate outcomes - first draft
 - Ability to edit the data table section after it has been completed
 - Links to data table task duplicated
-- Create a dataset: Error message
+- Create a dataset: Error message 
 - Metadata: How is this dataset designated?
 - Metadata: Will this dataset be regularly updated?
 - Metadata: Report links added
@@ -31,8 +30,6 @@ What we did last week
 - Metadata: How was the data collected or calculated?
 - Metadata: What is the summary of the dataset?
 - Metadata: What is the title of the dataset?
-- [SPIKE]  Gel React components
-- [TASK] Get better understanding of GEL
 
 What we're planning to do this week
 -----------------------------------
