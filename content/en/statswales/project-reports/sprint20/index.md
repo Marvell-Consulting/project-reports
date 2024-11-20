@@ -52,7 +52,7 @@ These are the goals that we set for this sprint:
 - End to end test environment <span class="badge bg-info">_**In progress**_</span>
 - Deploy to WG infrastructure. (U-statistic) <span class="badge bg-info">_**In progress**_</span>
 
-Risk and Issue
+Risk and Issues
 -------------------------------
 Current table showing project Risks and Issues
 ![Risks and Issues](RisksAndIssues20241119.png)
