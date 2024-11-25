@@ -39,7 +39,7 @@ These are the goals that we set for this sprint
 - Understand the scope for remaining items on the roadmap for MVP. <span class="badge bg-info">_**In progress**_</span>
 - Identify and document a steel thread for create journey working software <span class="badge bg-info">_**In progress**_</span>
 - End to end test environment <span class="badge bg-info">_**In progress**_</span>
-- Deploy to WG infrastructure. (U-statistic) <span class="badge bg-info">_**In progress**_</span>
+- Deploy to WG infrastructure <span class="badge bg-info">_**In progress**_</span>
 
 Screen shot of risks and issues board
 -------------------------------------
