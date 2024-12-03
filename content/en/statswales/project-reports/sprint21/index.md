@@ -49,25 +49,37 @@ Goals
 -----------------------------------
 
 These are the goals that we set for this sprint:
+
 - End to end automated testing <span class="badge bg-info">_**In progress**_</span>
 - Deploy to WG infrastructure <span class="badge bg-info">_**In progress**_</span>
 - Test create journey with Nicole <span class="badge bg-info">_**In progress**_</span>
 - Explore data views with larger datasets - predefined views (Venn Diagram) <span class="badge bg-info">_**In progress**_</span>
 
-
-
 Risk and Issues
 -------------------------------
+
 Current table showing project Risks and Issues
-![Risks and Issues](RisksAndIssues20241202.png)
+![Risks and Issues](riskboard20241202.png)
 
 Video of the most recent show and tell
 --------------------------------------
-[Show and Tell 14_11_2024](https://drive.google.com/file/d/18JU6gKGDaFBkK2l1rCvwjJV0aodEnEIU/view?usp=sharing)
+
+[Show and Tell 02_12_2024](https://drive.google.com/file/d/1U3sPO4QUZ815gKF5EaBYieLawtBWyHvK/view?usp=sharing)
 
 Screenshots from candiate design prototypes
 -------------------------------------------------
-[Transformation map](transformationMap.pdf)
+<img title="" src="consumer-concept-v4-en.png" alt="HTML5 Icon" width="200" style="border:2px solid black">
+
+<img title="" src="consumer-concept-v4-cy.png" alt="HTML5 Icon" width="200" style="border:2px solid black">
 
 Screenshots from working software
 -------------------------------------------------
+
+<a href="prototype1_20241202.png"><img title="" src="prototype1_20241202.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
+
+<img title="" src="prototype2_20241202.png" alt="HTML5 Icon" width="200" style="border:2px solid black">
+
+<img title="" src="prototype3_20241202.png" alt="HTML5 Icon" width="200" style="border:2px solid black">
+
+<img title="" src="prototype4_20241202.png" alt="HTML5 Icon" width="200" style="border:2px solid black">
+
