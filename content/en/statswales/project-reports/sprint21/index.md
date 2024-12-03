@@ -22,7 +22,6 @@ What we did last week
 - Hold internal data measures workshop
 - Organise follow up research sessions with publishers from taxonomy research
 - Identify more users with access needs
-- Book sessions with data consumers
 - Explore access permissions requirements
 - Redis is open to entire Internet
 - Approach for mapping legacy footnotes in SW3
