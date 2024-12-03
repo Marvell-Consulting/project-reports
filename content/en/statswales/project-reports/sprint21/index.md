@@ -68,18 +68,22 @@ Video of the most recent show and tell
 
 Screenshots from candiate design prototypes
 -------------------------------------------------
-<img title="" src="consumer-concept-v4-en.png" alt="HTML5 Icon" width="200" style="border:2px solid black">
 
-<img title="" src="consumer-concept-v4-cy.png" alt="HTML5 Icon" width="200" style="border:2px solid black">
+<a href="consumer-concept-v4-en.png"><img title="" src="consumer-concept-v4-en.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
+
+
+<a href="consumer-concept-v4-cy.png"><img title="" src="consumer-concept-v4-cy.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
+
 
 Screenshots from working software
 -------------------------------------------------
 
 <a href="prototype1_20241202.png"><img title="" src="prototype1_20241202.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
 
-<img title="" src="prototype2_20241202.png" alt="HTML5 Icon" width="200" style="border:2px solid black">
+<a href="prototype2_20241202.png"><img title="" src="prototype2_20241202.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
 
-<img title="" src="prototype3_20241202.png" alt="HTML5 Icon" width="200" style="border:2px solid black">
+<a href="prototype3_20241202.png"><img title="" src="prototype3_20241202.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
 
-<img title="" src="prototype4_20241202.png" alt="HTML5 Icon" width="200" style="border:2px solid black">
+<a href="prototype4_20241202.png"><img title="" src="prototype4_20241202.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
+
 
