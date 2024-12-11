@@ -36,7 +36,7 @@ What we're planning to do this week
 - Prepare to test the next iteration of working software (ref data and metadata) with SME publisher 
 - Hold workshop to plan data migration exercise
 - Deploy front-end and back-end applications into automated infrastructure
-- Time source
+- Dimension: Implement time source 
 - Dimension: Dates reference data branch
 - Publishing: Translation export and import
 - Dimensions: Choose common reference data
@@ -46,8 +46,8 @@ What we're planning to do this week
 These are the goals that we set for this sprint
 -----------------------------------------------
 
-- Understand the scope for remaining items on the roadmap for MVP. <span class="badge bg-info">_**In progress**_</span>
-- Identify and document a steel thread for create journey working software <span class="badge bg-info">_**In progress**_</span>
+- Understand the scope for remaining items on the roadmap for MVP <span class="badge bg-success">_**Done**_</span>
+- Identify and document a steel thread for create journey working software <span class="badge bg-success">_**Done**_</span>
 - End to end test environment <span class="badge bg-info">_**In progress**_</span>
 - Deploy to WG infrastructure <span class="badge bg-info">_**In progress**_</span>
 
