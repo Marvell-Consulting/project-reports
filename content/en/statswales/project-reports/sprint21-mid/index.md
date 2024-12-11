@@ -60,3 +60,13 @@ Chart showing change in risk profile
 ------------------------------------
 
 ![Chart showing change in risk profile](riskImpact20241209.png)
+
+Screenshots from working software
+-------------------------------------------------
+
+<a href="proto1_20241211.png"><img title="" src="proto1_20241211.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
+
+<a href="proto2_20241211.png"><img title="" src="proto2_20241211.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
+
+<a href="proto3_20241211.png"><img title="" src="proto3_20241211.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
+
