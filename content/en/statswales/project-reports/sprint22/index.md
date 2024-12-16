@@ -19,7 +19,6 @@ What we did last week
 - Putting a large amount of text in the title of the dataset results in unhelpful message
 - Metadata: Add a data source from the selected data provider lacks validation
 - Metadata: Publisher organisation and contact
-- Authenticate with MS EntraID [Won't fix]
 - Metadata: Topics
 - Suggested changes from metadata design review
 - Provide a way for the user to log out from the frontend
