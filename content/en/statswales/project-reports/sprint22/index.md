@@ -58,6 +58,7 @@ Risk and Issues
 -------------------------------
 
 Current table showing project Risks and Issues
+
 ![Risks and Issues](riskboard20241216.png)
 
 Video of the most recent show and tell
