@@ -18,11 +18,13 @@ What we did last week
 - Explore the design of views with larger / more complex datasets
 - View guidance (design)
 - Publishing: When should this dataset be published? 
+- GEL fixes from review Oct 2024
+- Review & iterate user needs board
 
 What we're planning to do this week
 -----------------------------------
 
-- Prototype HLTH dataset for consumer testing
+- Prototype HLTH and WIMD datasets for consumer testing
 - Review & iterate user needs board
 - Publisher research - dataset design and consumer experience workshop 1
 - Onboard MVP collaborators
