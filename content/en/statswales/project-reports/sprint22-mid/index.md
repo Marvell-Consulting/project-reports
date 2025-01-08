@@ -20,14 +20,14 @@ What we did last week
 - Publishing: When should this dataset be published? 
 - GEL fixes from review Oct 2024
 - Review & iterate user needs board
+- Publisher research - dataset design and consumer experience workshop 1
+- Onboard MVP collaborators
+
 
 What we're planning to do this week
 -----------------------------------
 
 - Prototype HLTH and WIMD datasets for consumer testing
-- Review & iterate user needs board
-- Publisher research - dataset design and consumer experience workshop 1
-- Onboard MVP collaborators
 - Handover from Register Dynamics
 - Dimension: Name
 - Configure a suitable testing suite for e2e tests
@@ -43,7 +43,7 @@ These are the goals that we set for this sprint
 
 - End to end automated testing  <span class="badge bg-info">_**In progress**_</span>
 - Deploy to WG infrastructure  <span class="badge bg-info">_**In progress**_</span>
-- Test the create journey ready for testing  <span class="badge bg-info">_**In progress**_</span>
+- Test the create journey <span class="badge bg-info">_**In progress**_</span>
 - Prepare for next round of consumer testing on views  <span class="badge bg-info">_**In progress**_</span>
 - Feasibility analysis - OData to structural model  <span class="badge bg-info">_**In progress**_</span>
 
