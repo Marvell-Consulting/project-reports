@@ -60,7 +60,3 @@ Current table showing project Risks and Issues
 
 ![Risks and Issues](riskboard20241216.png)
 
-Video of the most recent show and tell
---------------------------------------
-
-[Show and Tell 12_12_2024](https://drive.google.com/file/d/1LtKtJrhg8kDu_F87TOZABuOP7VAatVud/view?usp=sharing)
