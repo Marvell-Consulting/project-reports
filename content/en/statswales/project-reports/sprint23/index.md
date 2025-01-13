@@ -1,14 +1,11 @@
 ---
 title: Sprint 23 -  X-axis  
-date: 2024-01-13
+date: 2025-01-13
 description: Sprint report for the StatsWales3 Sprint 23
 ---
 
 X-axis
 =============
-
-Weighted Average
-------------------------------
 
 ![Find x](trouverX.png)
 
@@ -45,5 +42,11 @@ Risk and Issues
 
 Current table showing project Risks and Issues
 
-![Risks and Issues](riskboard20240113.png)
+![Risks and Issues](riskboard20250113.png)
+
+Show and Tell from last week
+----------------------------
+
+[Show and tell 22 - 09 01 2025](https://drive.google.com/file/d/1AttWIARv3CYAjVsuR03nDNZ4dyFDAoKl/view?usp=sharing)
+
 
