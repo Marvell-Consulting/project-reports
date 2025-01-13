@@ -56,3 +56,8 @@ Chart showing change in risk profile
 ------------------------------------
 
 ![Chart showing change in risk profile](riskChart20250106.png)
+
+Link to show and tell 09/01/2025
+--------------------------------
+
+[Show and tell 22 - 09/01/2025](https://drive.google.com/file/d/1AttWIARv3CYAjVsuR03nDNZ4dyFDAoKl/view?usp=sharing)
