@@ -49,4 +49,9 @@ Show and Tell from last week
 
 [Show and tell 22 - 09 01 2025](https://drive.google.com/file/d/1AttWIARv3CYAjVsuR03nDNZ4dyFDAoKl/view?usp=sharing)
 
+Screenshots from working software
+---------------------------------
 
+![Screenshots from working software](proto1_20250114.png)
+
+![Screenshots from working software](proto2_20250114.png)
