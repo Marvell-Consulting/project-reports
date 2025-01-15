@@ -12,7 +12,6 @@ X-axis
 What we did last week
 ------------------------
 - Prototype WIMD dataset for consumer testing
-- Prototype HLTH dataset for consumer testing
 - Deploy front-end and back-end applications into automated infrastructure
 - Provide CSV data for time dimension testing
 - Prototype HLTH dataset for consumer testing
@@ -20,7 +19,6 @@ What we did last week
 - Publisher research - dataset design and consumer experience workshop 1
 - Onboard MVP collaborators
 - Prepare to test the next iteration of working software (ref data and metadata) with SME publisher
-- Deploy front-end and back-end applications into automated infrastructure
 
 What we're planning to do this week
 -----------------------------------
