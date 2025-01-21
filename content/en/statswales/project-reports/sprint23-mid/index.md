@@ -19,6 +19,7 @@ What we did last week
 - Dataset removed from list of datasets and no longer available during creation
 - Iterate error messages - create user journey
 - Prototype WIMD dataset for consumer testing
+- Complete testing of create journey with early testers
 - Content and error message updates to create journey screens
 
 What we're planning to do this week
