@@ -29,7 +29,6 @@ What we're planning to do this week
 - Design first iteration Find a dataset by browsing categories (taxonomy)
 - Schedule sessions with consumers to test viewing a dataset
 - Prepare guide for unmoderated testing with publishers
-- Complete testing of create journey with early testers
 - Plan StatsWales away day in Cardiff (Marvell & WG teams)
 - Handover from Register Dynamics
 - Dimension: Name
