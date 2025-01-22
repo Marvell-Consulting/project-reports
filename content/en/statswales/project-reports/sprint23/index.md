@@ -45,7 +45,7 @@ These are the goals that we set for this sprint:
 
 - Do "Low hanging fruit" on the create journey. <span class="badge bg-info">_**In progress**_</span>
 - Implement update user journey <span class="badge bg-info">_**In progress**_</span>
-- MIgrate to WG estate <span class="badge bg-info">_**In progress**_</span>
+- Migrate to WG estate <span class="badge bg-info">_**In progress**_</span>
 - First consumer user testing session <span class="badge bg-info">_**In progress**_</span>
 
 Risk and Issues
