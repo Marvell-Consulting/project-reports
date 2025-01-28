@@ -74,6 +74,6 @@ Screenshots from consumer view design concepts
 
 ### Filtered view
 
-<a href="proto1_20250128.png"><img title="" src="proto1_20250128.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
+<a href="proto3_20250128.png"><img title="" src="proto3_20250128.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
 
 
