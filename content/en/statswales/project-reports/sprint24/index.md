@@ -64,14 +64,16 @@ Screenshots from consumer view design concepts
 
 ### Summary
 
-![Screenshots from consumer view design concepts](proto1_20250128.png)
+<a href="proto1_20250128.png"><img title="" src="proto1_20250128.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
+
 
 ### View by dimension
 
-![Screenshots from consumer view design concepts](proto2_20250128.png)
+<a href="proto2_20250128.png"><img title="" src="proto1_20250128.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
+
 
 ### Filtered view
 
-![Screenshots from consumer view design concepts](proto3_20250128.png)
+<a href="proto1_20250128.png"><img title="" src="proto1_20250128.png" alt="HTML5 Icon" width="200" style="border:2px solid black"></a>
 
 
