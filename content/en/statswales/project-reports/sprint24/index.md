@@ -59,10 +59,19 @@ Show and Tell from last week
 
 [Show and tell 23 - 23 01 2025](https://drive.google.com/file/d/1_7Aj-kbXtspL1HxMWFiWhueWHZCRfE-X/view?usp=sharing)
 
-Screenshots from working software
----------------------------------
+Screenshots from consumer view design concepts
+----------------------------------------------
 
-![Screenshots from working software](proto1_20250127.png)
+### Summary
 
-![Screenshots from working software](proto2_20250127.png)
+![Screenshots from consumer view design concepts](proto1_20250128.png)
+
+### View by dimension
+
+![Screenshots from consumer view design concepts](proto2_20250128.png)
+
+### Filtered view
+
+![Screenshots from consumer view design concepts](proto3_20250128.png)
+
 
