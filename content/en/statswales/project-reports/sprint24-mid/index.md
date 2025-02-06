@@ -46,8 +46,8 @@ These are the goals that we set for this sprint
 -----------------------------------------------
 
 - Update journey - working software <span class="badge bg-success">_**Done**_</span> 
-- Complete consumer view - working software <span class="badge bg-info">_**In progress**_</span>
-- Complete testing with consumers - testing <span class="badge bg-info">_**In progress**_</span>
+- Complete consumer view - working software <span class="badge bg-success">_**Done**_</span> 
+- Complete testing with consumers - testing <span class="badge bg-success">_**Done**_</span>
 
 Screen shot of risks and issues board
 -------------------------------------
