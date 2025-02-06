@@ -1,5 +1,5 @@
 ---
-title: Sprint 24 -  X-axis  
+title: Sprint 24 -  Y-intercept  
 date: 2025-01-27
 description: Sprint report for the StatsWales3 Sprint 24 
 ---
