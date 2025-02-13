@@ -11,27 +11,20 @@ Z-text
 
 What we did last week
 ------------------------
-
-- The org / team assignment is not remembering what you selected
-- Publisher dataset list is showing scheduled dataset as "Live" status
+- Performance improvements
+- Translation import validation needs to ignore any extra rows in the CSV
+- Hold SW3 private beta event in Cardiff and remotely
+- Create facilitation guide for the event in Cardiff
 - Broken test dataset
-- Dataset preview: Related reports not pulling through
 - Dataset preview: Rounding applied not appearing
-- Dataset preview: Data providers and sources not showing correctly
-- Dataset preview: Next update expected (provisional) not showing when dataset won't be updated
 - Complete consumer view testing sessions
-- Metadata: Cancel button missing from some screens
-- Prepare guide for unmoderated testing with publishers
 - Preview pagination is broken
-- Create journey complains at what appears to be a valid date
 - Implement 'Guidance' link in the header
-- Change dataset after it has been set for publication
-- Submit dataset for publication
 - Preview a dataset [MVP]
-- User authentication journey from EntraID to SW3  - scope for MVP
 - Dimension: Implement time source
-- Feedback form
+- Feedback form for publishers
 - Dimension: Dates reference data branch
+- Stand up the service in WG Azure
 - Data domain model
 - Dimensions: Upload a lookup table
 - Dimension: Measures
@@ -39,10 +32,12 @@ What we did last week
 What we're planning to do this week
 -----------------------------------
 
-- Change dataset after it has been set for publication
-- Handover from Register Dynamics
+- Approval process mapping
+- Permissions reqs / mapping
+- Refine product roadmap and backlog
+- Dimension: Row sample text incorrect
+- Set up dimensions containing time: Sample of rows is wrong
 - Dimension: Name
-- Update a dataset - Update data table
 - Stand up the service in WG Azure
 
 Goals
@@ -50,8 +45,7 @@ Goals
 
 These are the goals that we set for this sprint:
 
-- Update journey - working software <span class="badge bg-info">_**In progress**_</span>
-- Hold successful in-person and on-line event in Cardiff <span class="badge bg-info">_**In progress**_</span>
+- Hold successful in-person and on-line event in Cardiff <span class="badge bg-success">_**Done**_</span> 
 - Bug fixes and performance improvements on working software <span class="badge bg-info">_**In progress**_</span>
 - Define priorities for public Beta <span class="badge bg-info">_**In progress**_</span>
 - Complete testing <span class="badge bg-info">_**In progress**_</span>
