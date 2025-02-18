@@ -37,6 +37,10 @@ What we're planning to do this week
 - Refine product roadmap and backlog
 - Dimension: Name
 - Create ETL migration plan document - draft for 26/02/2025 (ideally  much sooner)
+- Dataset ID workshops
+- Roles and permissions matrix
+- Prototype permissions screens
+
 
 
 These are the goals that we set for this sprint
