@@ -15,7 +15,9 @@ Z hypothesis
 What we did last week
 ------------------------
 
-- Performance improvements
+- Draft spec of dataset ID
+- Hold dataset ID workshop
+- Workshop / Discussion: What if measure types in the same dataset have different time periods?
 - Translation import validation needs to ignore any extra rows in the CSV
 - Remove redundant env vars in pipelines
 - Dataset overview page status tags
@@ -25,6 +27,7 @@ What we did last week
 - Create facilitation guide for the event in Cardiff
 - Permissions reqs / mapping
 - Permissions design / prototype - DUPLICATE
+- Set up dimensions containing time: Sample of rows is wrong
 - Returning to column assignment from the tasklist duplicates dimensions
 - Feedback form for publishers
 - Stand up the service in WG Azure
@@ -37,7 +40,6 @@ What we're planning to do this week
 - Refine product roadmap and backlog
 - Dimension: Name
 - Create ETL migration plan document - draft for 26/02/2025 (ideally  much sooner)
-- Dataset ID workshops
 - Roles and permissions matrix
 - Prototype permissions screens
 
