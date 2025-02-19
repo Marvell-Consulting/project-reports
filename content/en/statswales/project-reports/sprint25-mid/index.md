@@ -18,6 +18,7 @@ What we did last week
 - Draft spec of dataset ID
 - Hold dataset ID workshop
 - Workshop / Discussion: What if measure types in the same dataset have different time periods?
+- Performance improvements
 - Translation import validation needs to ignore any extra rows in the CSV
 - Remove redundant env vars in pipelines
 - Dataset overview page status tags
@@ -26,7 +27,6 @@ What we did last week
 - Temporary login workaround
 - Create facilitation guide for the event in Cardiff
 - Permissions reqs / mapping
-- Permissions design / prototype - DUPLICATE
 - Set up dimensions containing time: Sample of rows is wrong
 - Returning to column assignment from the tasklist duplicates dimensions
 - Feedback form for publishers
