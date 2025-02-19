@@ -4,7 +4,7 @@ date: 2025-02-10
 description: Sprint report for the StatsWales3 Sprint 24 
 ---
 
-Z-text
+Z-test
 =============
 
 ![Z-test](Zhypothesis.png)
