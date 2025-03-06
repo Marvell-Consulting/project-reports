@@ -71,3 +71,7 @@ Chart showing change in risk profile
 
 ![Chart showing change in risk profile](riskImpact20250305.png)
 
+Show and Tell 6th March 2025
+----------------------------
+
+[Show and Tell 6th March 2025](https://drive.google.com/file/d/1E58yaYIhi41AhGLZT0pcEvPcUwFHJD8-/view?usp=sharing)
