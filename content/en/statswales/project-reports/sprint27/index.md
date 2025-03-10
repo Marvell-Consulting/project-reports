@@ -15,7 +15,6 @@ description: Sprint report for Sprint 27
 - Manage users and groups flows for admins
 - Develop feedback form that anon publishers with access needs can use
 - Roles and permissions matrix
-- Hold Welsh language testing session of the publisher UI and Guidance
 - Use English title in the dataset list views until the Welsh is provided
 - Metadata properties that don't need translation should show as complete for both languages
 - Remove all categories apart from geography from reference data in SW3
