@@ -13,7 +13,7 @@ description: Sprint report for Sprint 27
 - Arrange session with web team
 - Create stimulus for permissions table top simulations
 - Manage users and groups flows for admins
-- Develop feedback form that anon publishers with access needs can use
+- Develop feedback form that anonymous publishers with access needs can use
 - Roles and permissions matrix
 - Use English title in the dataset list views until the Welsh is provided
 - Metadata properties that don't need translation should show as complete for both languages
@@ -38,7 +38,7 @@ These are the goals that we set for this sprint:
 
 - Onboard first two Welsh-speaking publishers <span class="badge bg-info">_**In progress**_</span>
 - Updated dimension flow - working software <span class="badge bg-info">_**In progress**_</span>
-- Implemented health-probes for service  <span class="badge bg-info">_**In progress**_</span>
+- Implement health-probes for service  <span class="badge bg-info">_**In progress**_</span>
 - Preview environment running on EntraID - roles and permissions <span class="badge bg-info">_**In progress**_</span>
 
 ## Risk and Issues
