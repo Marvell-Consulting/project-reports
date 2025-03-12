@@ -49,5 +49,5 @@ Current table showing project Risks and Issues:
 
 ## Show and Tell from last week
 
-[Show and tell 26 - 06 03 2025](https://docs.google.com/presentation/d/1uwufa0GenPoybC7v_txMjFQZINmghbwYd0yObbxpFQY/edit?usp=sharing)
+[Show and tell 26 - 06 03 2025](https://drive.google.com/file/d/1E58yaYIhi41AhGLZT0pcEvPcUwFHJD8-/view?usp=sharing)
 
