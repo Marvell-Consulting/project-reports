@@ -48,9 +48,9 @@ description: Sprint report for Sprint 27-mid
 These are the goals that we set for this sprint:
 
 - Onboard first cohort of Welsh-speaking publishers <span class="badge bg-info">_**In progress**_</span>
-- Updated dimension flow - working software <span class="badge bg-info">_**In progress**_</span>
-- Implement health-probes for service  <span class="badge bg-info">_**In progress**_</span>
-- Preview environment running on EntraID - roles and permissions <span class="badge bg-info">_**In progress**_</span>
+- Updated dimension flow - working software <span class="badge bg-success">_**Done**_</span> 
+- Implement health-probes for service  <span class="badge bg-success">_**Done**_</span>
+- Preview environment running on EntraID - roles and permissions <span class="badge bg-success">_**Done**_</span>
 
 ## Risk and Issues
 
