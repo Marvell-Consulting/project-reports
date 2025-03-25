@@ -55,7 +55,7 @@ description: Sprint report for Sprint 28
 
 These are the goals that we set for this sprint:
 
-- Sprint Goal: * First iteration of consumer view <span class="badge bg-info">_**In progress**_</span>
+- First iteration of consumer view <span class="badge bg-info">_**In progress**_</span>
 - Delete dataset <span class="badge bg-info">_**In progress**_</span>
 - Get feedback on create a dataset from first cohort <span class="badge bg-info">_**In progress**_</span>
 - Progress exploration of hierarchies and pivot tables. <span class="badge bg-info">_**In progress**_</span>
