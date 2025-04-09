@@ -6,7 +6,7 @@ description: Sprint report for Sprint 29
 
 # Sprint 29 - Donkey
 
-![Sprint Image](sprint_image.png)
+![Donkey By Lilly M - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2653153](donkey.jpg)
 
 ## What we did last week
 
