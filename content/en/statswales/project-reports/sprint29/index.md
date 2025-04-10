@@ -6,7 +6,7 @@ description: Sprint report for Sprint 29
 
 # Sprint 29 - Donkey
 
-![Donkey By Lilly M - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2653153](donkey.jpg)
+![A young, fluffy donkey stands on a dirt patch in an open grassy field. Its coat is light brown and shaggy, with darker fur along its back and legs. The donkey has large ears pointed slightly outward and is facing to the right. In the background, there are trees and a small puddle nearby. Donkey By Lilly M - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2653153](donkey.jpg)
 
 ## What we did last week
 
