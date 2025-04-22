@@ -6,7 +6,7 @@ description: Sprint report for Sprint 30
 
 # Sprint 30 - Echidna
 
-![Sprint Image](sprint_image.png)
+!["A close-up side view of a short-beaked echidna walking on green grass. The animal has a rounded body covered in dark brown fur and sharp, cream-colored spines. Its long, narrow snout points downward as it moves forward on small legs."](echidna.jpg)
 
 ## What we did last week
 
@@ -42,23 +42,18 @@ description: Sprint report for Sprint 30
 
 These are the goals that we set for this sprint:
 
-- Sprint Goal: * First iteration of consumer view <span class="badge bg-info">_**In progress**_</span>
-- * First iteration of approval journey <span class="badge bg-info">_**In progress**_</span>
-- * Agreement on approach to pivot table and hierarchies <span class="badge bg-info">_**In progress**_</span>
-- * Ready to screen consumers for user testing <span class="badge bg-info">_**In progress**_</span>
--  <span class="badge bg-info">_**In progress**_</span>
-- Echidna <span class="badge bg-info">_**In progress**_</span>
+- First iteration of consumer view <span class="badge bg-info">_**In progress**_</span>
+- First iteration of approval journey <span class="badge bg-info">_**In progress**_</span>
+- Agreement on approach to pivot table and hierarchies <span class="badge bg-info">_**In progress**_</span>
+- Ready to screen consumers for user testing <span class="badge bg-info">_**In progress**_</span>
 
 ## Risk and Issues
 
 Current table showing project Risks and Issues:
 
-![Risks and Issues](risks_image.png)
+!["A Trello-style digital board with three columns labeled 'Large risks (> 500)', 'Medium risks Impact score (201–500)', and 'Small Risks (<= 200)'. Each column contains several cards representing different risk items. The background image features a calm lake surrounded by autumn trees with vivid orange, red, and yellow foliage reflected in the water."](riskRegister20250422.png)
 
 ## Show and Tell from last week
 
-[Show and tell 30 - 22 04 2025](https://example.com/show_and_tell)
+[Show and tell 30 - 17 04 2025](https://drive.google.com/file/d/11hilc_OhI4rHAynQOdl2VVxhV_AaBjjI/view?usp=sharing)
 
-## Screenshots from consumer view design concept
-
-![Screenshot](screenshot.png)
