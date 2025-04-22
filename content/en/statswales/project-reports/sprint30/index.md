@@ -24,7 +24,6 @@ description: Sprint report for Sprint 30
 - Measure look up preview is different than expected
 - Fix StatsCymru logo and favicon
 - Remove a published dataset
-- View dataset change log (consumer)[Won't Fix]
 - Determine whether we need to retain existing cube ID format, and how and when we will generate cube IDs
 
 ## What we're planning to do this week
