@@ -6,25 +6,25 @@ description: Sprint report for Sprint 30
 
 # Sprint 30 - Echidna
 
-!["A close-up side view of a short-beaked echidna walking on green grass. The animal has a rounded body covered in dark brown fur and sharp, cream-colored spines. Its long, narrow snout points downward as it moves forward on small legs."](echidna.jpg)
+![Sprint Image](sprint_image.png)
 
 ## What we did last week
 
-- Make migrations run on deploy
-- Related links not included in translation status logic
-- Design table sort (cancelling a selected sort)
-- Stale translations exports should be marked as such
-- Address clock change from GMT to BST which affects publishing [Dupe, won't fix]
-- Change link on translation export should go straight to change name for dimensions
-- errors.fact_table_validation.unknown_error
-- Data table validation error
-- Plan consumer recruitment for end-to-end mvp beta testing
-- Gather user scenarios for using pivot tables and hierarchies
-- Page not found on WRAx0101 dimensions
-- Measure look up preview is different than expected
-- Fix StatsCymru logo and favicon
-- Remove a published dataset
-- Determine whether we need to retain existing cube ID format, and how and when we will generate cube IDs
+- feat: Measure look up preview is different than expected
+- feat: Remove a published dataset
+- chore: Make migrations run on deploy
+- chore: Design table sort (cancelling a selected sort)
+- chore: Onboard second cohort of publishers
+- chore: Plan consumer recruitment for end-to-end mvp beta testing
+- chore: Gather user scenarios for using pivot tables and hierarchies
+- chore: Determine whether we need to retain existing cube ID format, and how and when we will generate cube IDs
+- fix: Related links not included in translation status logic
+- fix: Stale translations exports should be marked as such
+- fix: Change link on translation export should go straight to change name for dimensions
+- fix: errors.fact_table_validation.unknown_error
+- fix: Data table validation error
+- fix: Page not found on WRAx0101 dimensions
+- fix: Fix StatsCymru logo and favicon
 
 ## What we're planning to do this week
 
@@ -42,18 +42,23 @@ description: Sprint report for Sprint 30
 
 These are the goals that we set for this sprint:
 
-- First iteration of consumer view <span class="badge bg-info">_**In progress**_</span>
-- First iteration of approval journey <span class="badge bg-info">_**In progress**_</span>
-- Agreement on approach to pivot table and hierarchies <span class="badge bg-info">_**In progress**_</span>
-- Ready to screen consumers for user testing <span class="badge bg-info">_**In progress**_</span>
+- Sprint Goal: * First iteration of consumer view <span class="badge bg-info">_**In progress**_</span>
+- * First iteration of approval journey <span class="badge bg-info">_**In progress**_</span>
+- * Agreement on approach to pivot table and hierarchies <span class="badge bg-info">_**In progress**_</span>
+- * Ready to screen consumers for user testing <span class="badge bg-info">_**In progress**_</span>
+-  <span class="badge bg-info">_**In progress**_</span>
+- Echidna <span class="badge bg-info">_**In progress**_</span>
 
 ## Risk and Issues
 
 Current table showing project Risks and Issues:
 
-!["A Trello-style digital board with three columns labeled 'Large risks (> 500)', 'Medium risks Impact score (201–500)', and 'Small Risks (<= 200)'. Each column contains several cards representing different risk items. The background image features a calm lake surrounded by autumn trees with vivid orange, red, and yellow foliage reflected in the water."](riskRegister20250422.png)
+![Risks and Issues](risks_image.png)
 
 ## Show and Tell from last week
 
-[Show and tell 30 - 17 04 2025](https://drive.google.com/file/d/11hilc_OhI4rHAynQOdl2VVxhV_AaBjjI/view?usp=sharing)
+[Show and tell 30 - 22 04 2025](https://example.com/show_and_tell)
 
+## Screenshots from consumer view design concept
+
+![Screenshot](screenshot.png)
