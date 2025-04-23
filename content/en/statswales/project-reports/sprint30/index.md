@@ -1,6 +1,6 @@
 ---
 title: Sprint 30 - Echidna
-date: 2025-04-22
+date: 2025-04-23
 description: Sprint report for Sprint 30
 ---
 
@@ -10,14 +10,15 @@ description: Sprint report for Sprint 30
 
 ## What we did last week
 
-- feat: Measure look up preview is different than expected
-- feat: Remove a published dataset
-- chore: Make migrations run on deploy
-- chore: Design table sort (cancelling a selected sort)
-- chore: Onboard second cohort of publishers
-- chore: Plan consumer recruitment for end-to-end mvp beta testing
-- chore: Gather user scenarios for using pivot tables and hierarchies
-- chore: Determine whether we need to retain existing cube ID format, and how and when we will generate cube IDs
+
+- feature: Measure look up preview is different than expected
+- feature: Remove a published dataset
+- task: Make migrations run on deploy
+- task: Design table sort (cancelling a selected sort)
+- task: Onboard second cohort of publishers
+- task: Plan consumer recruitment for end-to-end mvp beta testing
+- task: Gather user scenarios for using pivot tables and hierarchies
+- task: Determine whether we need to retain existing cube ID format, and how and when we will generate cube IDs
 - fix: Related links not included in translation status logic
 - fix: Stale translations exports should be marked as such
 - fix: Change link on translation export should go straight to change name for dimensions
@@ -25,18 +26,20 @@ description: Sprint report for Sprint 30
 - fix: Data table validation error
 - fix: Page not found on WRAx0101 dimensions
 - fix: Fix StatsCymru logo and favicon
+- fix: Session properties are not namespaced so apply across all datasets
 
 ## What we're planning to do this week
 
-- Prepare bi-lingual consumer screener and email
-- Prepare and submit info for GEL QA (publisher side)
-- Summarise outputs for the implementation of hybrid pivot tables and hierarchies.
-- Write tests for existing code to improve test coverage
-- Give devs access to to prod / prepod envs
-- Create a prod / preprod environment
-- Analyse feedback from first onboarding cohort
-- Session properties are not namespaced so apply across all datasets
-- Configure a suitable testing suite for e2e tests
+
+- feature: Remove Publisher organisation and contact
+- task: Prepare bi-lingual consumer screener and email
+- task: Prepare and submit info for GEL QA (publisher side)
+- task: Summarise outputs for the implementation of hybrid pivot tables and hierarchies.
+- task: Write tests for existing code to improve test coverage
+- task: Give devs access to to prod / prepod envs
+- task: Create a prod / preprod environment
+- task: Analyse feedback from first onboarding cohort
+- task: Configure a suitable testing suite for e2e tests
 
 ## Goals
 
