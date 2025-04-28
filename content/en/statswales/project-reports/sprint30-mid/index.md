@@ -1,10 +1,10 @@
 ---
-title: Sprint 30 - Echidna
+title: Sprint 30 Mid - Echidna
 date: 2025-04-28
-description: Sprint report for Sprint 30
+description: Sprint report for Sprint 30 Mid
 ---
 
-# Sprint 30 - Echidna
+# Sprint 30 Mid - Echidna
 
 ![Sprint Image](Echidna2.png)
 
