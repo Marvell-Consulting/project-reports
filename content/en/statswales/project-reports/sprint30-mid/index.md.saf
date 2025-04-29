@@ -1,15 +1,14 @@
 ---
-title: Sprint 30 - Echidna
-date: 2025-04-29
-description: Sprint report for Sprint 30
+title: Sprint 30 Mid - Echidna
+date: 2025-04-28
+description: Sprint report for Sprint 30 Mid
 ---
 
-# Sprint 30 - Echidna
+# Sprint 30 Mid - Echidna
 
-![Sprint Image](sprint_image.png)
+![Sprint Image](Echidna2.png)
 
 ## What we did last week
-
 
 - feature: Add view dataset preview action on overview page for incomplete dataset
 - feature: Add revision.created_by to developer view
@@ -37,7 +36,6 @@ description: Sprint report for Sprint 30
 
 ## What we're planning to do this week
 
-
 - feature: Filters first iteration: Non Javascript version
 - feature: Approve a dataset
 - task: Design publisher search for dataset / user
@@ -61,23 +59,19 @@ description: Sprint report for Sprint 30
 
 These are the goals that we set for this sprint:
 
-- Sprint Goal: * First iteration of consumer view <span class="badge bg-info">_**In progress**_</span>
-- * First iteration of approval journey <span class="badge bg-info">_**In progress**_</span>
-- * Agreement on approach to pivot table and hierarchies <span class="badge bg-info">_**In progress**_</span>
-- * Ready to screen consumers for user testing <span class="badge bg-info">_**In progress**_</span>
--  <span class="badge bg-info">_**In progress**_</span>
-- Echidna <span class="badge bg-info">_**In progress**_</span>
+- First iteration of consumer view <span class="badge bg-info">_**In progress**_</span>
+- First iteration of approval journey <span class="badge bg-info">_**In progress**_</span>
+- Agreement on approach to pivot table and hierarchies <span class="badge bg-info">_**In progress**_</span>
+- Ready to screen consumers for user testing <span class="badge bg-info">_**In progress**_</span>
 
 ## Risk and Issues
 
 Current table showing project Risks and Issues:
 
-![Risks and Issues](risks_image.png)
+![Risks and Issues](riskRegister20250428.png)
 
-## Show and Tell from last week
+## Risks and Issues Impact Chart
 
-[Show and tell 30 - 29 04 2025](https://example.com/show_and_tell)
+![Risks and Issues Impact Chart](riskImpact20250428.png)
 
-## Screenshots from consumer view design concept
 
-![Screenshot](screenshot.png)
