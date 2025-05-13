@@ -48,7 +48,7 @@ description: Sprint report for Sprint 31 Mid
 - task: Create a prod / preprod environment
 - task: Arrange final dataset design workshop with publishers
 - task: Run Welsh language testing with publishers
-- fix: Fix table styling
+- fix: Fix table styling [GEL QA critical]
 - fix: Fix preview tab styling
 
 ## Goals
