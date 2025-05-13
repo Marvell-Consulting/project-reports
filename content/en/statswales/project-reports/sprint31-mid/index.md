@@ -17,7 +17,7 @@ description: Sprint report for Sprint 31 Mid
 - task: Plan third cohort for publisher onboarding
 - task: Prepare and submit info for GEL QA (publisher side)
 - task: Analyse feedback from first onboarding cohort
-- fix: errors.csv.unknown for some but not all dimension tasks [Hugh Mackenzie]
+- fix: errors.csv.unknown for some but not all dimension tasks 
 - fix: errors.csv.unknown error on dimension task
 - fix: Page not found when click Submit for publishing but all tasks complete
 - fix: Investigate timeouts and improve performance for the publishing journey
@@ -68,6 +68,4 @@ Current table showing project Risks and Issues:
 Chart showing impact score
 
 ![Impact score](riskImpact20250512.png)
-
-
 
