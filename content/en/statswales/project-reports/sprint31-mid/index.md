@@ -18,13 +18,13 @@ description: Sprint report for Sprint 31 Mid
 - task: Prepare and submit info for GEL QA (publisher side)
 - task: Analyse feedback from first onboarding cohort
 - fix: errors.csv.unknown for some but not all dimension tasks [Hugh Mackenzie]
-- fix: errors.csv.unknown error on dimension task [Nicole Burchill]
+- fix: errors.csv.unknown error on dimension task
 - fix: Page not found when click Submit for publishing but all tasks complete
 - fix: Investigate timeouts and improve performance for the publishing journey
 - fix: Errors.sources.assign_failed when matching columns in data table
 - fix: Error message on data table view and dimensions when trying to upload a look up table
-- fix: Cube could not be generated [SCHS0333]
-- fix: Dataset won't publish even though all create tasks completed [EDUC0193]
+- fix: Cube could not be generated 
+- fix: Dataset won't publish even though all create tasks completed 
 - fix: Dimension name AreaCode not included in the exported file
 - fix: Dataset created in English not exporting all English dimension names
 - fix: Data table NaN error
@@ -48,7 +48,7 @@ description: Sprint report for Sprint 31 Mid
 - task: Create a prod / preprod environment
 - task: Arrange final dataset design workshop with publishers
 - task: Run Welsh language testing with publishers
-- fix: Fix table styling [GEL QA critical]
+- fix: Fix table styling
 - fix: Fix preview tab styling
 
 ## Goals
