@@ -37,7 +37,6 @@ description: Sprint report for Sprint 32
 - feature: Filters first iteration: Non Javascript version
 - task: Onboard KAS admin for publishers onboarding support
 - task: Onboard publishers cohort 4
-- task: Onboard KAS team member to SW3 support
 - task: Plan data table only consumer testing
 - task: Prepare discussion guide and testing materials for end-to-end consumer testing
 - task: Get reference data
