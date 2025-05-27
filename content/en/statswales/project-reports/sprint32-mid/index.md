@@ -6,7 +6,7 @@ description: Sprint report for Sprint 32
 
 # Sprint 32 - Gecko
 
-![Sprint Image](sprint_image.png)
+![A picture of a tokay gecko](gecko2.jpg)
 
 ## What we did last week
 
@@ -24,8 +24,8 @@ description: Sprint report for Sprint 32
 - fix: Row numbers missing on preview and published datatable view
 - fix: request_data_provider_url missing in translation link on data-providers page
 - fix: An unknown error occurred, try again later with preview
-- fix: Cube could not be generated in Table preview [Bethan Sherwood]
-- fix: Page not found when try to submit for publishing [George Kamau]
+- fix: Cube could not be generated in Table preview 
+- fix: Page not found when try to submit for publishing 
 - fix: Translation tasks go incomplete then when CSV exported again they show as complete
 - fix: Table previews don't work on multiple datasets when only some of the data tasks are completed
 - fix: Using back button shows cached version of tasklist page so may show a completed task as incomplete
@@ -54,24 +54,14 @@ description: Sprint report for Sprint 32
 
 These are the goals that we set for this sprint:
 
-- Sprint Goal: Implement filtering and sorting for consumers <span class="badge bg-info">_**In progress**_</span>
+- Implement filtering and sorting for consumers <span class="badge bg-info">_**In progress**_</span>
 - Start consumer testing <span class="badge bg-info">_**In progress**_</span>
 - Approve a dataset <span class="badge bg-info">_**In progress**_</span>
 - Get acceptance of a solution design document <span class="badge bg-info">_**In progress**_</span>
 - Prepare for on-boarding of fourth cohort of publishers <span class="badge bg-info">_**In progress**_</span>
--  <span class="badge bg-info">_**In progress**_</span>
-- Gecko <span class="badge bg-info">_**In progress**_</span>
 
 ## Risk and Issues
 
 Current table showing project Risks and Issues:
 
-![Risks and Issues](risks_image.png)
-
-## Show and Tell from last week
-
-[Show and tell 32 - 27 05 2025](https://example.com/show_and_tell)
-
-## Screenshots from consumer view design concept
-
-![Screenshot](screenshot.png)
+![Risks and Issues](risksBoard20250527.png)
