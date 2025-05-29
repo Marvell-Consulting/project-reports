@@ -1,10 +1,10 @@
 ---
-title: Sprint 32 - Gecko
+title: Sprint 32-mid - Gecko
 date: 2025-05-27
-description: Sprint report for Sprint 32
+description: Sprint report for Sprint 32-mid
 ---
 
-# Sprint 32 - Gecko
+# Sprint 32-mid - Gecko
 
 ![A picture of a tokay gecko](gecko2.jpg)
 
@@ -64,3 +64,7 @@ These are the goals that we set for this sprint:
 Current table showing project Risks and Issues:
 
 ![Risks and Issues](risksBoard20250527.png)
+
+## Risk profile score
+
+![Risk profile score](riskImpact20250528.png)
