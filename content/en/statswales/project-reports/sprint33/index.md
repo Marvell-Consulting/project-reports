@@ -6,7 +6,7 @@ description: Sprint report for Sprint 33
 
 # Sprint 33 - Horse
 
-![Sprint Image](sprint_image.png)
+![By George Stubbs - http://www.nationalgallery.org.uk/paintings/george-stubbs-whistlejacket, Public Domain](horse.jpg)
 
 ## What we did last week
 
@@ -66,12 +66,10 @@ These are the goals that we set for this sprint:
 
 Current table showing project Risks and Issues:
 
-![Risks and Issues](risks_image.png)
+![Risks and Issues](riskboard20250602.png)
 
 ## Show and Tell from last week
 
-[Show and tell 33 - 02 06 2025](https://example.com/show_and_tell)
+[Show and tell 33 - 29 05 2025](https://drive.google.com/file/d/1tSlF6KkZFqSKi39OOGCz7YY2ost8fL7w/view?usp=sharing)
 
-## Screenshots from consumer view design concept
 
-![Screenshot](screenshot.png)
