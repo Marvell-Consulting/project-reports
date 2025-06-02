@@ -38,6 +38,7 @@ description: Sprint report for Sprint 33
 - feature: Filters first iteration: Non Javascript version
 - feature: View API guidance
 - feature: Access datasets via API
+- task: Explore designs for showing custom data value notes in the consumer view
 - task: Onboard KAS admin for publishers onboarding support
 - task: Plan approval testing task for onboarded publishers cohorts 1 and 2
 - task: Onboard publishers cohort 4
