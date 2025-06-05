@@ -11,15 +11,10 @@ description: Sprint report for Sprint 33
 ## What we did last week
 
 
-- feature: Flatten a Cube
-- feature: Investigate how much data we actually have.
 - task: Explore requirements for date reference data not fully known
 - task: Plan data table only consumer testing
 - task: Map the landscape of data services in Wales
 - task: Explore how we might automate the pivoted views we have validated with consumers
-- task: Create Pivot Table queries in SQLite using a new cube
-- task: Create Pivot Table queries in SQLite
-- task: SPIKE: Pivot by dimension
 - fix: Unable to Change dataset before publication when update pending approval
 - fix: Dataset history: shows dataset published before being approved
 - fix: Weird error message when standardised geo data doesn't match data table codes
@@ -49,7 +44,7 @@ description: Sprint report for Sprint 33
 - task: Change builds to use WG and github trigger via PAT
 - task: Give devs access to to prod / prepod envs
 - task: Create a prod / preprod environment
-- task: Review lighthouse report and identify further actions [Needs to be done for DAC testing]
+- task: Review lighthouse report and identify further actions
 - task: Run Welsh language testing with publishers
 - task: Make our container images more secure
 - fix: Preview does not work - columns have been ignored
