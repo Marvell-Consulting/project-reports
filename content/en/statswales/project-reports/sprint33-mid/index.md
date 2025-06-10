@@ -6,7 +6,7 @@ description: Sprint report for Sprint 33-mid
 
 # Sprint 33-mid - Horse
 
-![By Io - Pagina, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11869525](rocinante.jpg)
+![By Seabiscuit Heritage Foundation - Seabiscuit Heritage Foundation, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4917564](rocinante.jpg)
 
 ## What we did last week
 
@@ -52,7 +52,7 @@ description: Sprint report for Sprint 33-mid
 
 These are the goals that we set for this sprint:
 
-- Sprint Goal: Implement filtering and sorting for consumers <span class="badge bg-info">_**In progress**_</span>
+- Implement filtering and sorting for consumers <span class="badge bg-info">_**In progress**_</span>
 - First round of consumer testing <span class="badge bg-info">_**In progress**_</span>
 - Complete ITHC scoping and schedule test <span class="badge bg-info">_**In progress**_</span>
 - Complete on-boarding of fourth cohort of publishers <span class="badge bg-info">_**In progress**_</span>
