@@ -22,7 +22,6 @@ description: Sprint report for Sprint 34
 - task: Design table sort (cancelling a selected sort)
 - task: Design archived dataset (consumer side)
 - task: Document patterns and components
-- task: Run accessibility testing with publishers
 - task: [Spike] Agree strategy for log-in journey
 - fix: Filter fixes to consumer view for testing 13th June
 - fix: Data provider and data source do not appear on consumer view
