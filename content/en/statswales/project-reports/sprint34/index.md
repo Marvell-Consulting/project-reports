@@ -12,6 +12,7 @@ description: Sprint report for Sprint 34
 
 
 - feature: Write cookies statement
+- task: Run end-to-end UI consumer testing without sorting or filtered downloads
 - task: Plan unmoderated accessibility testing with WG staff networks
 - task: Prepare Marvell environment for consumer testing
 - task: Onboard KAS admin for publishers onboarding support
