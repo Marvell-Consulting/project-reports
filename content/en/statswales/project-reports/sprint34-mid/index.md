@@ -59,10 +59,10 @@ description: Sprint report for Sprint 34-mid
 
 These are the goals that we set for this sprint:
 
-- 1. Prepare the environment for the ITHC <span class="badge bg-info">_**In progress**_</span>
-- 2. Sorting and Filtered downloads <span class="badge bg-info">_**In progress**_</span>
-- 3. Preview release and support for comms for publishers <span class="badge bg-success">_**Done**_</span> 
-- 4. Attend Beta service assessment <span class="badge bg-success">_**Done**_</span>
+- Prepare the environment for the ITHC <span class="badge bg-info">_**In progress**_</span>
+- Sorting and Filtered downloads <span class="badge bg-info">_**In progress**_</span>
+- Preview release and support for comms for publishers <span class="badge bg-success">_**Done**_</span> 
+- Attend Beta service assessment <span class="badge bg-success">_**Done**_</span>
 
 ## Risk and Issues
 
