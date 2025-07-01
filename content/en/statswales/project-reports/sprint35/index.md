@@ -1,52 +1,66 @@
 ---
 title: Sprint 35 - Jackalope
-date: 2025-06-30
+date: 2025-07-01
 description: Sprint report for Sprint 35
 ---
 
 # Sprint 35 - Jackalope
 
-![A yellow diamond-shaped road sign mounted on wood, featuring a black illustration of a jackalope—a mythical animal resembling a jackrabbit with antelope horns. The sign reads "JACKALOPE CROSSING" in bold black letters above and below the image.By °linda°!° - https://www.flickr.com/photos/lindawild/2884069487/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=91527470](jackalope.jpg)
+![Sprint Image](sprint_image.png)
 
 ## What we did last week
-## What we did last week
 
-- feature:Sticky first row
-- task: Analyse round 5 of consumer user testing
-- task: Load testing of dev environment -fixes and performance improvements
-- task: Task: Understand what we need to do to meet point 1 of the Welsh service standard: "Focus on the current and future wellbeing of people in Wales"
-- fix: Filter fixes - JS, Non-JS and hierarchies
+
+- feature: SW-474Sticky first row
+- feature: SW-395Provide potential match to reference data [Won't do]
+- feature: SW-215Dimensions: Notes about the dimension [Old UI design, Won't do]
+- feature: SW-214Dimensions: Changing selections and notes after initial flow [Won't do]
+- task: SW-829Analyse round 5 of consumer user testing
+- task: SW-822Load testing of dev environment -fixes and performance improvements
+- task: SW-807Run unmoderated accessibility testing with consumers
+- task: SW-786Plan summative round of end-to-end user testing
+- task: SW-433Implement Data Validation & Quality Checks [Won't do]
+- task: SW-71Task: Understand what we need to do to meet point 1 of the Welsh service standard: "Focus on the current and future wellbeing of people in Wales"
+- fix: SW-806Filter fixes - JS, Non-JS and hierarchies
 
 ## What we're planning to do this week
 
-- feature: Download in JSON format
-- feature: Implement page for filtered data download
-- task: Plan service handover to WG
-- task: Run unmoderated accessibility testing with consumers
-- task: Implement WAF ahead of ITHC
-- task: Plan summative round of end-to-end user testing
-- task: Explore designs for showing custom data value notes in the consumer view
-- task: Give devs access to to pre-prod environment
-- task: Create a pre-prod environment
-- fix: Overlap styling issue on rows per page select box
-- fix: Explore why two datasets failed to rebuild
-- fix: Review logs from manual load test - identify improvements
+
+- feature: SW-535Download in JSON format
+- feature: SW-477Implement page for filtered data download
+- task: SW-856Run summative round of consumer end-to-end testing
+- task: SW-855Analyse unmoderated accessibility testing with consumers results
+- task: SW-842Plan service handover to WG
+- task: SW-795Implement WAF ahead of ITHC
+- task: SW-775Explore designs for showing custom data value notes in the consumer view
+- task: SW-594Give devs access to to pre-prod environment
+- task: SW-593Create a pre-prod environment
+- fix: SW-846Overlap styling issue on rows per page select box
+- fix: SW-832Explore why two datasets failed to rebuild
+- fix: SW-823Review logs from manual load test - identify improvements
 
 ## Goals
 
 These are the goals that we set for this sprint:
 
-- Prepare and support for ITHC <span class="badge bg-info">_**In progress**_</span>
-- Address fixes in update journey <span class="badge bg-info">_**In progress**_</span>
-- Download metadata <span class="badge bg-info">_**In progress**_</span>
-- Prepare for support and service handover <span class="badge bg-info">_**In progress**_</span>
+- Sprint Goal: * Prepare and support for ITHC <span class="badge bg-info">_**In progress**_</span>
+- * Address fixes in update journey <span class="badge bg-info">_**In progress**_</span>
+- * Download metadata <span class="badge bg-info">_**In progress**_</span>
+- * Prepare for support and service handover <span class="badge bg-info">_**In progress**_</span>
+-  <span class="badge bg-info">_**In progress**_</span>
+- Jackalope <span class="badge bg-info">_**In progress**_</span>
+- ~ <span class="badge bg-info">_**In progress**_</span>
 
 ## Risk and Issues
 
 Current table showing project Risks and Issues:
 
-![Risks and Issues](risksBoard20250630.png)
+![Risks and Issues](risks_image.png)
 
 ## Show and Tell from last week
 
-[Show and tell 35 - 26 06 2025](https://drive.google.com/file/d/1Edl5gme33HEKmBuydPG444L7CU-OaZQz/view?usp=sharing)
+[Show and tell 35 - 01 07 2025](https://example.com/show_and_tell)
+
+## Screenshots from consumer view design concept
+
+![Screenshot](screenshot.png)
