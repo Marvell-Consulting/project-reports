@@ -9,46 +9,27 @@ description: Sprint report for Sprint 35
 ![A yellow diamond-shaped road sign mounted on wood, featuring a black illustration of a jackalope—a mythical animal resembling a jackrabbit with antelope horns. The sign reads "JACKALOPE CROSSING" in bold black letters above and below the image.By °linda°!° - https://www.flickr.com/photos/lindawild/2884069487/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=91527470](jackalope.jpg)
 
 ## What we did last week
-- feature: Mandate notes column in dataset creation and validate this
-- feature: Translate to Welsh for consumer testing
-- feature: Implement history tab on dataset overview (publisher)
-- feature: Implement find a dataset by browsing taxonomy
-- feature: Move return to tasklist link
-- feature: Filters first iteration: Non Javascript version
-- feature: Hierarchies in filters
-- feature: Tabs: "Data" and "About this dataset"
-- feature: Filters first iteration: Javascript version
-- feature: Consumer data table (basic first version)
-- feature: View API guidance
-- feature: Access datasets via API
-- feature: Validate the languages in lookup tables
-- feature: Approve a dataset
+## What we did last week
+
+- feature:Sticky first row
+- task: Analyse round 5 of consumer user testing
 - task: Load testing of dev environment -fixes and performance improvements
-- task: Service performance measurement framework
-- task: Run end-to-end UI consumer testing without sorting or filtered downloads
-- task: Proxy API requests through the frontend
-- task: Manual accessibility testing
-- task: Prepare for beta assessment
-- task: Plan unmoderated end-to-end diary study
-- task: Explore introductory journey / consumer guidance to StatsWales
-- task: Plan design handover with Andy Fox
-- task: Prepare discussion guide and testing materials for end-to-end UI consumer testing
-- task: Hold Beta service assessment
-- task: Navigate hierarchies in pivot tables
-- fix: Change 'Missing data' for 'x' shorthand to 'Not available'
+- task: Task: Understand what we need to do to meet point 1 of the Welsh service standard: "Focus on the current and future wellbeing of people in Wales"
+- fix: Filter fixes - JS, Non-JS and hierarchies
 
 ## What we're planning to do this week
 
-- task: Analyse round 5 of consumer user testing
-- task: Export whole translation file for non-guidance screens
+- feature: Download in JSON format
+- feature: Implement page for filtered data download
+- task: Plan service handover to WG
 - task: Run unmoderated accessibility testing with consumers
-- task: Implement Anti-Virus scanning ahead of ITHC
 - task: Implement WAF ahead of ITHC
 - task: Plan summative round of end-to-end user testing
 - task: Explore designs for showing custom data value notes in the consumer view
 - task: Give devs access to to pre-prod environment
 - task: Create a pre-prod environment
-- fix: Two datasets failed to rebuild
+- fix: Overlap styling issue on rows per page select box
+- fix: Explore why two datasets failed to rebuild
 - fix: Review logs from manual load test - identify improvements
 
 ## Goals
