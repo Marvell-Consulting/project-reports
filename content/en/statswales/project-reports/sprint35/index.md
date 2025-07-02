@@ -9,7 +9,6 @@ description: Sprint report for Sprint 35
 ![A yellow diamond-shaped road sign mounted on wood, featuring a black illustration of a jackalope—a mythical animal resembling a jackrabbit with antelope horns. The sign reads "JACKALOPE CROSSING" in bold black letters above and below the image.By °linda°!° - https://www.flickr.com/photos/lindawild/2884069487/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=91527470](jackalope.jpg)
 
 ## What we did last week
-## What we did last week
 
 - feature:Sticky first row
 - task: Run unmoderated accessibility testing with consumers
