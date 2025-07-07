@@ -1,15 +1,14 @@
 ---
-title: Sprint 25 - Jackalope
+title: Sprint 35 - Jackalope
 date: 2025-07-07
-description: Sprint report for Sprint 25
+description: Sprint report for Sprint 35
 ---
 
-# Sprint 25 - Jackalope
+# Sprint 35 - Jackalope
 
-![Sprint Image](sprint_image.png)
+![A mounted taxidermy jackalope, a mythical creature with the body of a rabbit and antlers like a deer, displayed on a wooden plaque against a white and metal background.](jackalopeStuffed.jpg)
 
 ## What we did last week
-
 
 - feature: Filter selection counter (JS only)
 - feature: Batch select / deselect filters
@@ -28,11 +27,9 @@ description: Sprint report for Sprint 25
 - task: [SPIKE] Publish journey should be resumable and shareable at any point
 - task: Better error handling on the frontend
 - task: Implement a URL builder for the frontend
-- fix: 04 errors on the API - [INVALID]
 - fix: Explore why two datasets failed to rebuild
 
 ## What we're planning to do this week
-
 
 - feature: Iterate reference data for hierarchies  [KAS]
 - feature: Iterate geography reference data following user feedback [KAS]
@@ -50,24 +47,14 @@ description: Sprint report for Sprint 25
 
 These are the goals that we set for this sprint:
 
-- Sprint Goal: * Prepare and support for ITHC <span class="badge bg-info">_**In progress**_</span>
-- * Address fixes in update journey <span class="badge bg-info">_**In progress**_</span>
-- * Download metadata <span class="badge bg-info">_**In progress**_</span>
-- * Prepare for support and service handover <span class="badge bg-info">_**In progress**_</span>
--  <span class="badge bg-info">_**In progress**_</span>
-- Jackalope <span class="badge bg-info">_**In progress**_</span>
-- ~ <span class="badge bg-info">_**In progress**_</span>
+- Prepare and support for ITHC <span class="badge bg-info">_**In progress**_</span>
+- Address fixes in update journey <span class="badge bg-info">_**In progress**_</span>
+- Download metadata <span class="badge bg-info">_**In progress**_</span>
+- Prepare for support and service handover <span class="badge bg-info">_**In progress**_</span>
 
 ## Risk and Issues
 
 Current table showing project Risks and Issues:
 
-![Risks and Issues](risks_image.png)
+![A Trello-style digital board showing categorized project risks divided into three columns: 'Large risks (> 500)', 'Medium risks Impact score (201–500)', and 'Small Risks (<= 200)'. The 'Large risks' column contains several high-impact issues such as 'On time and to budget' and 'Production readiness, solution design '. The 'Medium risks' column includes items like 'Challenges in recruiting (including Welsh-speaking) participants' and 'SC clearance'. The 'Small Risks' column is empty. The background features a scenic lake with vibrant autumn trees reflected in the water.](risksBoard20250707.png)
 
-## Show and Tell from last week
-
-[Show and tell 25 - 07 07 2025](https://example.com/show_and_tell)
-
-## Screenshots from consumer view design concept
-
-![Screenshot](screenshot.png)
