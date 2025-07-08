@@ -58,3 +58,6 @@ Current table showing project Risks and Issues:
 
 ![A Trello-style digital board showing categorized project risks divided into three columns: 'Large risks (> 500)', 'Medium risks Impact score (201–500)', and 'Small Risks (<= 200)'. The 'Large risks' column contains several high-impact issues such as 'On time and to budget' and 'Production readiness, solution design '. The 'Medium risks' column includes items like 'Challenges in recruiting (including Welsh-speaking) participants' and 'SC clearance'. The 'Small Risks' column is empty. The background features a scenic lake with vibrant autumn trees reflected in the water.](risksBoard20250707.png)
 
+Risks and issues impact chart
+
+![Risks and issues impact chart](riskImpact20250708.png)
