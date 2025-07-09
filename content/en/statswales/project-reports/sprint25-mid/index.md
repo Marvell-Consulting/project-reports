@@ -1,73 +1,67 @@
 ---
-title: Sprint 25 - Jackalope
-date: 2025-07-07
-description: Sprint report for Sprint 25
+title: Sprint 25-mid - the Z hypothesis
+date: 2025-02-17
+description: Sprint report for the StatsWales3 Sprint 25-mid 
 ---
 
-# Sprint 25 - Jackalope
+Weekly report
+=============
 
-![Sprint Image](sprint_image.png)
+Z hypothesis 
+------------------------------
 
-## What we did last week
+![The Z hypothesis](Zhypothesis.png)
+
+What we did last week
+------------------------
+
+- Draft spec of dataset ID
+- Hold dataset ID workshop
+- Workshop / Discussion: What if measure types in the same dataset have different time periods?
+- Performance improvements
+- Translation import validation needs to ignore any extra rows in the CSV
+- Remove redundant env vars in pipelines
+- Dataset overview page status tags
+- Hold SW3 private beta event in Cardiff and remotely
+- Approval process mapping
+- Temporary login workaround
+- Create facilitation guide for the event in Cardiff
+- Permissions reqs / mapping
+- Set up dimensions containing time: Sample of rows is wrong
+- Returning to column assignment from the tasklist duplicates dimensions
+- Feedback form for publishers
+- Stand up the service in WG Azure
+
+What we're planning to do this week
+-----------------------------------
+
+- Flatten a Cube
+- "Most recent update" is showing first published date and not most recent publish date
+- Refine product roadmap and backlog
+- Dimension: Name
+- Create ETL migration plan document - draft for 26/02/2025 (ideally  much sooner)
+- Roles and permissions matrix
+- Prototype permissions screens
 
 
-- feature: Filter selection counter (JS only)
-- feature: Batch select / deselect filters
-- feature: Filter iterations after initial consumer testing
-- feature: Adding missing data value shorthand to the system
-- feature: Implement page for filtered data download
-- feature: Support multiple providers for the same user account
-- task: Follow up missing percentages for 'All Pupils' in preview dataset
-- task: Review CORS policy and implement any required settings on Frontend & Backend
-- task: Analyse unmoderated accessibility testing with consumers results
-- task: Share look up instructions for preparing standardised reference data for implementation
-- task: Run unmoderated accessibility testing with consumers
-- task: Plan summative round of end-to-end user testing
-- task: Add CSRF protection
-- task: Look at using ts-node-dev instead of node-mon
-- task: [SPIKE] Publish journey should be resumable and shareable at any point
-- task: Better error handling on the frontend
-- task: Implement a URL builder for the frontend
-- fix: 04 errors on the API - [INVALID]
-- fix: Explore why two datasets failed to rebuild
 
-## What we're planning to do this week
+These are the goals that we set for this sprint
+-----------------------------------------------
 
+- Hold successful in-person and on-line event in Cardiff <span class="badge bg-success">_**Done**_</span>
+- Bug fixes and performance improvements on working software <span class="badge bg-info">_**In progress**_</span>
+- Define priorities for public Beta <span class="badge bg-success">_**Done**_</span>
+- Complete testing <span class="badge bg-success">_**Done**_</span>
+- Define next steps for data consumer views<span class="badge bg-info">_**In progress**_</span>
+- Domain for Beta  <span class="badge bg-success">_**Done**_</span>
 
-- feature: Iterate reference data for hierarchies  [KAS]
-- feature: Iterate geography reference data following user feedback [KAS]
-- task: Identify monitoring research questions
-- task: Run summative round of consumer end-to-end testing
-- task: Plan service handover to WG
-- task: Iterate future product roadmap for handover
-- task: Implement WAF ahead of ITHC
-- task: Explore designs for showing custom data value notes in the consumer view
-- task: Give devs access to to pre-prod environment
-- task: Create a pre-prod environment
-- fix: Overlap styling issue on rows per page select box
+Screen shot of risks and issues board
+-------------------------------------
 
-## Goals
+![Screenshot of risks and issues board](RisksBoard20250217.png)
 
-These are the goals that we set for this sprint:
+Chart showing change in risk profile
+------------------------------------
 
-- Sprint Goal: * Prepare and support for ITHC <span class="badge bg-info">_**In progress**_</span>
-- * Address fixes in update journey <span class="badge bg-info">_**In progress**_</span>
-- * Download metadata <span class="badge bg-info">_**In progress**_</span>
-- * Prepare for support and service handover <span class="badge bg-info">_**In progress**_</span>
--  <span class="badge bg-info">_**In progress**_</span>
-- Jackalope <span class="badge bg-info">_**In progress**_</span>
-- ~ <span class="badge bg-info">_**In progress**_</span>
+![Chart showing change in risk profile](riskImpact20250217.png)
 
-## Risk and Issues
-
-Current table showing project Risks and Issues:
-
-![Risks and Issues](risks_image.png)
-
-## Show and Tell from last week
-
-[Show and tell 25 - 07 07 2025](https://example.com/show_and_tell)
-
-## Screenshots from consumer view design concept
-
-![Screenshot](screenshot.png)
