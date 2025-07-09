@@ -1,10 +1,10 @@
 ---
 title: Sprint 35 - Jackalope
 date: 2025-07-07
-description: Sprint report for Sprint 35
+description: Sprint report for Sprint 35 Mid
 ---
 
-# Sprint 35 - Jackalope
+# Sprint 35 Mid - Jackalope
 
 ![A mounted taxidermy jackalope, a mythical creature with the body of a rabbit and antlers like a deer, displayed on a wooden plaque against a white and metal background.](jackalopeStuffed.jpg)
 
