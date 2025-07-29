@@ -1,5 +1,5 @@
 ---
-title: Sprint 35 - Jackalope
+title: Sprint 35 Mid - Jackalope
 date: 2025-07-07
 description: Sprint report for Sprint 35 Mid
 ---
